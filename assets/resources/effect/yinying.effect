@@ -1,0 +1,126 @@
+// Copyright (c) 2017-2018 Xiamen Yaji Software Co., Ltd.  
+
+CCEffect %{
+  techniques:
+  - passes:
+    - vert: vs
+      frag: fs
+      blendState:
+        targets:
+        - blend: true
+      rasterizerState:
+        cullMode: none
+      properties:
+        texture: { value: white }
+        alphaThreshold: { value: 0.5 }
+        outlineWidth: { value: 0.01 }
+}%
+
+
+CCProgram vs %{
+  precision highp float;
+
+  #include <cc-global>
+  #include <cc-local>
+
+  in vec3 a_position;
+  in vec4 a_color;
+  out vec4 v_color;
+
+  #if USE_TEXTURE
+  in vec2 a_uv0;
+  out vec2 v_uv0;
+  #endif
+
+  void main () {
+    vec4 pos = vec4(a_position, 1);
+
+    #if CC_USE_MODEL
+    pos = cc_matViewProj * cc_matWorld * pos;
+    #else
+    pos = cc_matViewProj * pos;
+    #endif
+
+    #if USE_TEXTURE
+    v_uv0 = a_uv0;
+    #endif
+
+    v_color = a_color;
+
+    gl_Position = pos;
+  }
+}%
+
+
+CCProgram fs %{
+  precision highp float;
+  
+  #include <alpha-test>
+  #include <cc-global>
+ 
+  in vec4 v_color;
+ 
+  #if USE_TEXTURE
+  in vec2 v_uv0;
+  uniform sampler2D texture;
+  #endif
+ 
+  //cocos规定在shader中所有非sampler的uniform都应以block形式声明
+  uniform InputData{
+    float outlineWidth;  //外部程序输入描边宽度1-1.0。
+  };
+  bool checkIsisShow(vec2 pos,float i){
+       //alpha检测值
+    float alpha = 0.5;
+    vec4 color = texture(texture, pos);
+    color = texture2D(texture, pos + vec2(0, i*0.001));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(i*0.001, i*0.001));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(i*0.001, 0));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(i*0.0001, -i*0.001));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(0, -i*0.001));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(-i*0.001, -i*0.001));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(-i*0.001, 0));
+    if(color.a > alpha)return true;
+    color = texture2D(texture, pos + vec2(-i*0.001, i*0.001));
+    if(color.a > alpha)return true;
+   color = texture(texture, pos);
+     //当前点已是纹理边缘
+    if((pos.x <= outlineWidth || pos.x >= 1.0 - outlineWidth)&&color.a>alpha)return true;
+    if((pos.y <= outlineWidth || pos.y >= 1.0 - outlineWidth)&&color.a>alpha)return true;
+      return false;
+  }
+ 
+ 
+ 
+  void main () {
+    vec4 o = vec4(1, 1, 1, 1);
+ 
+    #if USE_TEXTURE
+    o *= texture(texture, v_uv0);
+      #if CC_USE_ALPHA_ATLAS_TEXTURE
+      o.a *= texture2D(texture, v_uv0 + vec2(0, 0.5)).r;
+      #endif
+    #endif
+ 
+    o *= v_color;
+ 
+    ALPHA_TEST(o); 
+    float alpha = 0.6 ;
+  vec4 color = texture(texture, v_uv0);
+  if(color.a <= alpha){
+   for(float i = 1.0 ; i<10.0; i++){
+      if(checkIsisShow(v_uv0,i)){
+       o = vec4(0, 0, 0, (10.0-i)*0.03);
+        break;
+      }
+    }
+    }
+    gl_FragColor = o;
+  }
+}%

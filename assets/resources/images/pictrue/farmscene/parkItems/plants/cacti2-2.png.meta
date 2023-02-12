@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b0b308ad-b879-40a0-8691-8b7cbfda3d64",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 91,
+  "height": 181,
+  "platformSettings": {},
+  "subMetas": {
+    "cacti2-2": {
+      "ver": "1.0.4",
+      "uuid": "ccde1d88-c23a-4755-a2f9-2990e3bdcc6b",
+      "rawTextureUuid": "b0b308ad-b879-40a0-8691-8b7cbfda3d64",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 91,
+      "height": 181,
+      "rawWidth": 91,
+      "rawHeight": 181,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

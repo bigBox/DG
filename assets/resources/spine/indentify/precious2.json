@@ -1,0 +1,63 @@
+{
+"skeleton": { "hash": "30o+2iJcKqyAdd5pcjkuBC2pkbE", "spine": "3.7.91", "width": 320, "height": 176, "images": "./images/", "audio": "" },
+"bones": [
+	{ "name": "root", "scaleX": 2, "scaleY": 2 },
+	{ "name": "wan1", "parent": "root", "length": 42.41, "rotation": 88.96 },
+	{ "name": "wan2", "parent": "root", "length": 39.33, "rotation": 88.88 },
+	{ "name": "wan3", "parent": "root", "length": 37.79, "rotation": 91.17 },
+	{ "name": "wan4", "parent": "root", "length": 38.55, "rotation": 90, "x": -18.5, "y": -20.93 }
+],
+"slots": [
+	{ "name": "wan1", "bone": "wan1", "attachment": "wan1" },
+	{ "name": "wan2", "bone": "wan2", "attachment": "wan2" },
+	{ "name": "wan3", "bone": "wan3", "attachment": "wan3" },
+	{ "name": "wan4", "bone": "wan4", "attachment": "wan4" }
+],
+"skins": {
+	"default": {
+		"wan1": {
+			"wan1": { "rotation": -88.96, "width": 160, "height": 88 }
+		},
+		"wan2": {
+			"wan2": { "rotation": -88.88, "width": 160, "height": 88 }
+		},
+		"wan3": {
+			"wan3": { "rotation": -91.17, "width": 160, "height": 88 }
+		},
+		"wan4": {
+			"wan4": { "x": 20.93, "y": -18.5, "rotation": -90, "width": 160, "height": 88 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"wan1": {
+				"attachment": [
+					{ "time": 0.1667, "name": null }
+				]
+			},
+			"wan2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "wan2" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"wan3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "wan3" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"wan4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "wan4" }
+				]
+			}
+		}
+	}
+}
+}

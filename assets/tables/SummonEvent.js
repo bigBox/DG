@@ -1,0 +1,11 @@
+module.exports = new Array(
+	{ID:2001, name:'森林', evtPic:'hwsl001', evtBG:'hwsl002', talk1:'<color=#773900>我进入了一片神秘森林，遇到了一只美丽的  </color><color=#52dde5><outline color=#000000 width=4>宝</outline></color> <color=#773900>。 </color>', talk2:'', talk3:'', talk4:'', talk5:''},
+	{ID:2002, name:'荒野', evtPic:'hwhy001', evtBG:'hwhy002', talk1:'<color=#773900>荒野上的野花好漂亮啊，我采集些  </color><color=#52dde5><outline color=#000000 width=4>花草种子</outline></color> <color=#773900>。 </color>', talk2:'', talk3:'', talk4:'', talk5:''},
+	{ID:2003, name:'水', evtPic:'hwshui001', evtBG:'hwshui002', talk1:'<color=#773900>这片水底五色斑斓，遇到了好看的  </color><color=#52dde5><outline color=#000000 width=4>鱼 <color=#773900> <color=#773900>。 </color>', talk2:'', talk3:'', talk4:'', talk5:''},
+	{ID:2004, name:'山地。宝', evtPic:'hwsd001', evtBG:'hwsd002', talk1:'<color=#773900>意外进入一个秘境，发现了这个工艺品。 </color>', talk2:'', talk3:'', talk4:'', talk5:''},
+	{ID:2005, name:'山地。投资', evtPic:'hwsd001', evtBG:'hwsd002', talk1:'<color=#773900>山石之中发现一个山洞。 </color>', talk2:'<color=#773900>请求主人投资 </color><color=#52dde5><outline color=#000000 width=4>10000金币 </color> <color=#773900>让我深入洞穴一探究竟。</color>', talk3:'', talk4:'', talk5:''},
+	{ID:2006, name:'废墟。宝', evtPic:'hwfx001', evtBG:'hwfx002', talk1:'<color=#773900>路过一大片废墟，一脚踢到一个露出地面的东东。 </color>', talk2:'<color=#773900>就是这个，主人能鉴定一下吗？ </color>', talk3:'', talk4:'', talk5:''},
+	{ID:2007, name:'废墟。投资', evtPic:'hwfx001', evtBG:'hwfx002', talk1:'<color=#773900>在夜里，这个废墟地下透着的光亮。 </color>', talk2:'<color=#773900>我仔细一探，发现了神秘洞穴，投资 </color><color=#52dde5><outline color=#000000 width=4>10000金币 </color> <color=#773900> 可深入风险，主人意下如何？</color>', talk3:'', talk4:'', talk5:''},
+	{ID:2008, name:'沙漠。宝', evtPic:'hwsm001', evtBG:'hwsm002', talk1:'<color=#773900>大风吹过，露出了这个东东，主人你看看是什么啊？</color>。</color>', talk2:'', talk3:'', talk4:'', talk5:''},
+	{ID:2009, name:'沙漠。投资', evtPic:'hwsm001', evtBG:'hwsm002', talk1:'<color=#773900>一望无际的黄沙之下，埋着曾经的故事。</color>', talk2:'<color=#773900>听当地人说，这里埋有宝藏，主人要不要花费 </color><color=#52dde5><outline color=#000000 width=4>10000金币</color> <color=#773900> <color=#773900>，一探究竟？</color>', talk3:'', talk4:'', talk5:''},
+);

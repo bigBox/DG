@@ -1,0 +1,13 @@
+
+makeEffect.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+faguang01
+  rotate: false
+  xy: 2, 2
+  size: 86, 152
+  orig: 86, 152
+  offset: 0, 0
+  index: -1

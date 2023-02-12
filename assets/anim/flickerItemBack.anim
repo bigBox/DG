@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flickerItemBack",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.2333333333333334,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "4679d1e6-b324-4273-ad9e-25d82d8d28f6"
+            }
+          },
+          {
+            "frame": 0.6333333333333333,
+            "value": {
+              "__uuid__": "4679d1e6-b324-4273-ad9e-25d82d8d28f6"
+            }
+          },
+          {
+            "frame": 1.2166666666666666,
+            "value": {
+              "__uuid__": "4679d1e6-b324-4273-ad9e-25d82d8d28f6"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.6333333333333333,
+          "value": 0
+        },
+        {
+          "frame": 1.2166666666666666,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

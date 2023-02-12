@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dlgGuJiDrop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [],
+      "scale": []
+    },
+    "paths": {
+      "lblName": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            }
+          ]
+        }
+      },
+      "ItemDec": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "spItem": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            },
+            {
+              "frame": 1.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1.5,
+      "func": "onScaleEnd",
+      "params": []
+    }
+  ]
+}

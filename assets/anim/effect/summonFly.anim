@@ -1,0 +1,110 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "summonFly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.066666666666667,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "spPerson": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ],
+          "anchorY": [
+            {
+              "frame": 0,
+              "value": 0.5
+            },
+            {
+              "frame": 2,
+              "value": 0.5
+            },
+            {
+              "frame": 2.066666666666667,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -42,
+                4
+              ],
+              "motionPath": [
+                [
+                  -211,
+                  178,
+                  -84,
+                  108,
+                  -321,
+                  238
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                -518,
+                264
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.9833333333333334,
+              "value": false
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5166666666666667,
+              "value": -360
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": -720
+            },
+            {
+              "frame": 1.5166666666666666,
+              "value": -1080
+            },
+            {
+              "frame": 2,
+              "value": -1440
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

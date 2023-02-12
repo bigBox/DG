@@ -1,0 +1,59 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "geziWalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1666666666666667,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -141,
+            120
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": [
+            209,
+            232
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": [
+            -144,
+            120
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.6666666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.25
+          }
+        },
+        {
+          "frame": 0.6833333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -0.25,
+            "y": 0.25
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

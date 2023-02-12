@@ -1,0 +1,158 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "cloud",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "cloud1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                436,
+                -563
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                1926,
+                -563
+              ]
+            }
+          ]
+        }
+      },
+      "cloud2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                470,
+                -112
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                1926,
+                -112
+              ]
+            }
+          ]
+        }
+      },
+      "cloud3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -668,
+                -339
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -1975,
+                -339
+              ]
+            }
+          ]
+        }
+      },
+      "cloud4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                528,
+                332
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                1977,
+                338
+              ]
+            }
+          ]
+        }
+      },
+      "cloud6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -660,
+                504
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -1968,
+                504
+              ]
+            }
+          ]
+        }
+      },
+      "cloud5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -553,
+                121
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -1970,
+                109
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.11666666666666667,
+      "func": "playActioncallback",
+      "params": []
+    },
+    {
+      "frame": 0.3,
+      "func": "playCloudcallback",
+      "params": []
+    }
+  ]
+}

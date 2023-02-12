@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guideDirect",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.6666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f8872b04-bdbe-4d9d-9c17-23583c4a4ad5"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "f8e7d541-a0eb-4478-82dd-e8a7367d1392"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "fa803a4a-8d71-466d-9322-b5722e709e81"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "8a601484-ae88-4657-94be-52c32acbadef"
+            }
+          },
+          {
+            "frame": 1.3333333333333333,
+            "value": {
+              "__uuid__": "595891d5-c557-4d2f-b3c0-c252cab12336"
+            }
+          },
+          {
+            "frame": 1.65,
+            "value": {
+              "__uuid__": "f8872b04-bdbe-4d9d-9c17-23583c4a4ad5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "personWalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.15,
+  "sample": 60,
+  "speed": 0.35,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            100,
+            718,
+            0
+          ]
+        },
+        {
+          "frame": 0.5166666666666667,
+          "value": [
+            100,
+            779
+          ]
+        },
+        {
+          "frame": 1.15,
+          "value": [
+            99,
+            846
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.5166666666666667,
+          "value": 255
+        },
+        {
+          "frame": 1.15,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

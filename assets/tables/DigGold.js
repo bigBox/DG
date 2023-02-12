@@ -1,0 +1,17 @@
+module.exports = new Array(
+	{ID:1, type:0, name:'未知', itemGet:0, digNum:0, digPerTime:0, weight:0, exp:0, cost:1, showType:1},
+	{ID:2, type:-1, name:'挖完', itemGet:0, digNum:0, digPerTime:0, weight:0, exp:0, cost:1, showType:0},
+	{ID:3, type:100001, name:'钻石', itemGet:2, digNum:1, digPerTime:45, weight:0, exp:0, cost:1, showType:1},
+	{ID:4, type:101001, name:'煤', itemGet:400010001, digNum:10, digPerTime:24, weight:600, exp:0, cost:1, showType:4},
+	{ID:5, type:101002, name:'铁', itemGet:400010002, digNum:10, digPerTime:34, weight:400, exp:0, cost:1, showType:5},
+	{ID:6, type:101003, name:'银矿', itemGet:400010003, digNum:10, digPerTime:34, weight:200, exp:0, cost:1, showType:3},
+	{ID:7, type:101004, name:'金矿', itemGet:400010004, digNum:10, digPerTime:34, weight:100, exp:0, cost:1, showType:2},
+	{ID:8, type:101005, name:'土', itemGet:0, digNum:10, digPerTime:20, weight:2000, exp:0, cost:1, showType:1},
+	{ID:9, type:101006, name:'石头', itemGet:0, digNum:10, digPerTime:34, weight:1000, exp:0, cost:1, showType:1},
+	{ID:10, type:102001, name:'金元素', itemGet:400010006, digNum:10, digPerTime:48, weight:50, exp:0, cost:1, showType:1},
+	{ID:11, type:102002, name:'木元素', itemGet:400010007, digNum:10, digPerTime:48, weight:50, exp:0, cost:1, showType:1},
+	{ID:12, type:102003, name:'水元素', itemGet:400010008, digNum:10, digPerTime:48, weight:50, exp:0, cost:1, showType:1},
+	{ID:13, type:102004, name:'火元素', itemGet:400010009, digNum:10, digPerTime:48, weight:50, exp:0, cost:1, showType:1},
+	{ID:14, type:102005, name:'土元素', itemGet:400010010, digNum:10, digPerTime:48, weight:50, exp:0, cost:1, showType:1},
+	{ID:15, type:104001, name:'地图碎片', itemGet:700000017, digNum:3, digPerTime:48, weight:240, exp:0, cost:1, showType:1},
+);

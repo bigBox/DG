@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "balloonFly3",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.6666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "95e4d885-2faf-47ce-bb3c-ad2f76f6348a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1380c735-6968-4b52-bc8e-086254a3c234"
+            }
+          },
+          {
+            "frame": 0.65,
+            "value": {
+              "__uuid__": "7f35175b-29b7-4931-a4bd-0287e0178792"
+            }
+          },
+          {
+            "frame": 0.95,
+            "value": {
+              "__uuid__": "13c638a6-92ba-487f-9f5e-21abeb30afa6"
+            }
+          },
+          {
+            "frame": 1.05,
+            "value": {
+              "__uuid__": "1f0ac5fa-26c2-4aa0-a657-224fac13b2d3"
+            }
+          },
+          {
+            "frame": 1.2,
+            "value": {
+              "__uuid__": "13c638a6-92ba-487f-9f5e-21abeb30afa6"
+            }
+          },
+          {
+            "frame": 1.3833333333333333,
+            "value": {
+              "__uuid__": "7f35175b-29b7-4931-a4bd-0287e0178792"
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__uuid__": "1380c735-6968-4b52-bc8e-086254a3c234"
+            }
+          },
+          {
+            "frame": 1.65,
+            "value": {
+              "__uuid__": "95e4d885-2faf-47ce-bb3c-ad2f76f6348a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

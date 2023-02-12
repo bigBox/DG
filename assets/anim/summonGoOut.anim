@@ -1,0 +1,108 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "summonGoOut",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 4,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ItemNeed1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                206
+              ],
+              "motionPath": [
+                [
+                  -80,
+                  56,
+                  -80,
+                  130,
+                  -80,
+                  -19
+                ]
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -1,
+                -91
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "ItemNeed2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -350,
+                0
+              ],
+              "motionPath": [
+                [
+                  -181,
+                  -121,
+                  -280,
+                  -96,
+                  -111,
+                  -139
+                ]
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -2,
+                -88
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "ItemNeed3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                350,
+                0
+              ],
+              "motionPath": [
+                [
+                  211,
+                  -112,
+                  295,
+                  -91,
+                  118,
+                  -134
+                ]
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -3,
+                -86
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

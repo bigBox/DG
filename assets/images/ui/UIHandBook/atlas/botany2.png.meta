@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ab4bcec2-0901-46f0-99b0-fa7a7dd3f629",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 155,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "botany2": {
+      "ver": "1.0.4",
+      "uuid": "a61c75f0-e4b9-40c3-b17c-3de5c8135621",
+      "rawTextureUuid": "ab4bcec2-0901-46f0-99b0-fa7a7dd3f629",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 155,
+      "height": 100,
+      "rawWidth": 155,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

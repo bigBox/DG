@@ -1,0 +1,105 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jumpout",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "scaleX": [],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.25,
+          "value": 1
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 0.5
+        },
+        {
+          "frame": 0.8666666666666667,
+          "value": 1
+        },
+        {
+          "frame": 1.25,
+          "value": 0.4
+        },
+        {
+          "frame": 2,
+          "value": 1
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "curve": "quartOut",
+          "motionPath": [
+            [
+              87,
+              182,
+              40,
+              182,
+              130,
+              182
+            ]
+          ]
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": [
+            180,
+            0
+          ],
+          "motionPath": [
+            [
+              289,
+              250,
+              221,
+              249,
+              349,
+              251
+            ]
+          ]
+        },
+        {
+          "frame": 1.25,
+          "value": [
+            437,
+            4
+          ],
+          "motionPath": [
+            [
+              713,
+              531,
+              588,
+              537,
+              826,
+              525
+            ]
+          ],
+          "curve": "cubicOut"
+        },
+        {
+          "frame": 2,
+          "value": [
+            914,
+            -20
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

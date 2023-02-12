@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "waitTimeMove6",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.03,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            177,
+            -104
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0,
+          "value": [
+            177,
+            -104
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            272,
+            -95
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": [
+            324,
+            -45
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.0333333333333334,
+          "value": [
+            332,
+            21
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

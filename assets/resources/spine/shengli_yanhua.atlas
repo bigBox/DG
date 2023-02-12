@@ -1,0 +1,222 @@
+
+shengli_yanhua.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhua_00000
+  rotate: false
+  xy: 1471, 412
+  size: 368, 362
+  orig: 469, 384
+  offset: 51, 20
+  index: -1
+yanhua_00002
+  rotate: false
+  xy: 1479, 1514
+  size: 371, 362
+  orig: 469, 384
+  offset: 50, 20
+  index: -1
+yanhua_00004
+  rotate: false
+  xy: 744, 1141
+  size: 374, 362
+  orig: 469, 384
+  offset: 50, 20
+  index: -1
+yanhua_00006
+  rotate: true
+  xy: 371, 5
+  size: 373, 367
+  orig: 469, 384
+  offset: 52, 15
+  index: -1
+yanhua_00008
+  rotate: true
+  xy: 2, 380
+  size: 374, 369
+  orig: 469, 384
+  offset: 51, 11
+  index: -1
+yanhua_00010
+  rotate: true
+  xy: 373, 380
+  size: 374, 366
+  orig: 469, 384
+  offset: 51, 9
+  index: -1
+yanhua_00012
+  rotate: false
+  xy: 2, 1504
+  size: 372, 372
+  orig: 469, 384
+  offset: 52, 1
+  index: -1
+yanhua_00014
+  rotate: true
+  xy: 2, 1130
+  size: 372, 371
+  orig: 469, 384
+  offset: 52, 1
+  index: -1
+yanhua_00016
+  rotate: true
+  xy: 2, 756
+  size: 372, 371
+  orig: 469, 384
+  offset: 55, 1
+  index: -1
+yanhua_00018
+  rotate: false
+  xy: 376, 1505
+  size: 366, 371
+  orig: 469, 384
+  offset: 61, 1
+  index: -1
+yanhua_00020
+  rotate: false
+  xy: 1111, 1507
+  size: 366, 369
+  orig: 469, 384
+  offset: 60, 3
+  index: -1
+yanhua_00022
+  rotate: false
+  xy: 1103, 408
+  size: 366, 366
+  orig: 469, 384
+  offset: 59, 5
+  index: -1
+yanhua_00024
+  rotate: false
+  xy: 1474, 47
+  size: 366, 363
+  orig: 469, 384
+  offset: 59, 6
+  index: -1
+yanhua_00034
+  rotate: false
+  xy: 1120, 1143
+  size: 372, 362
+  orig: 469, 384
+  offset: 50, 10
+  index: -1
+yanhua_00036
+  rotate: true
+  xy: 744, 1505
+  size: 371, 365
+  orig: 469, 384
+  offset: 49, 9
+  index: -1
+yanhua_00038
+  rotate: true
+  xy: 740, 7
+  size: 371, 367
+  orig: 469, 384
+  offset: 48, 7
+  index: -1
+yanhua_00040
+  rotate: true
+  xy: 375, 1132
+  size: 370, 367
+  orig: 469, 384
+  offset: 48, 4
+  index: -1
+yanhua_00042
+  rotate: false
+  xy: 2, 2
+  size: 367, 376
+  orig: 469, 384
+  offset: 48, 1
+  index: -1
+yanhua_00044
+  rotate: false
+  xy: 741, 390
+  size: 360, 377
+  orig: 469, 384
+  offset: 50, 1
+  index: -1
+yanhua_00046
+  rotate: true
+  xy: 375, 769
+  size: 361, 376
+  orig: 469, 384
+  offset: 51, 3
+  index: -1
+yanhua_00048
+  rotate: true
+  xy: 753, 776
+  size: 363, 371
+  orig: 469, 384
+  offset: 51, 6
+  index: -1
+yanhua_00050
+  rotate: true
+  xy: 1126, 776
+  size: 365, 367
+  orig: 469, 384
+  offset: 52, 8
+  index: -1
+yanhua_00052
+  rotate: true
+  xy: 1494, 1145
+  size: 367, 364
+  orig: 469, 384
+  offset: 52, 12
+  index: -1
+yanhua_00054
+  rotate: true
+  xy: 1109, 39
+  size: 367, 363
+  orig: 469, 384
+  offset: 52, 14
+  index: -1
+yanhua_00056
+  rotate: true
+  xy: 1495, 778
+  size: 365, 364
+  orig: 469, 384
+  offset: 52, 15
+  index: -1
+
+shengli_yanhua2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yanhua_00026
+  rotate: true
+  xy: 371, 734
+  size: 361, 364
+  orig: 469, 384
+  offset: 61, 6
+  index: -1
+yanhua_00028
+  rotate: false
+  xy: 2, 2
+  size: 359, 364
+  orig: 469, 384
+  offset: 61, 5
+  index: -1
+yanhua_00030
+  rotate: false
+  xy: 366, 371
+  size: 360, 361
+  orig: 469, 384
+  offset: 60, 8
+  index: -1
+yanhua_00032
+  rotate: false
+  xy: 2, 734
+  size: 367, 361
+  orig: 469, 384
+  offset: 55, 9
+  index: -1
+yanhua_00058
+  rotate: false
+  xy: 2, 368
+  size: 362, 364
+  orig: 469, 384
+  offset: 52, 18
+  index: -1

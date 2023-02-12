@@ -1,0 +1,57 @@
+{
+"skeleton": {
+	"hash": "u+qrAi4SzuCtaTBZoHDn54R3LQM",
+	"spine": "3.8.99",
+	"x": -111.26,
+	"y": -71.46,
+	"width": 221,
+	"height": 150,
+	"images": "./images/",
+	"audio": "F:/UI/通用/箭头动画/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "1", "parent": "root", "length": 221.43, "rotation": -179.91, "x": 109.42, "y": -0.43 }
+],
+"slots": [
+	{ "name": "1", "bone": "1", "attachment": "1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "x": 110.17, "y": -4.15, "rotation": 179.91, "width": 224, "height": 154 }
+			}
+		}
+	}
+],
+"animations": {
+	"jiantou": {
+		"bones": {
+			"root": {
+				"translate": [
+					{}
+				],
+				"scale": [
+					{}
+				]
+			},
+			"1": {
+				"translate": [
+					{ "x": 113.09 },
+					{ "time": 0.5, "x": 212.59, "curve": "stepped" },
+					{ "time": 1.1667, "x": 212.59 },
+					{ "time": 1.6667, "x": 113.09 }
+				],
+				"scale": [
+					{ "curve": "stepped" },
+					{ "time": 0.5 },
+					{ "time": 0.8333, "x": 0.672 },
+					{ "time": 1.1667 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,62 @@
+
+guodu-55zhen.png
+size: 1966,1258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1bg3
+  rotate: false
+  xy: 2, 2
+  size: 489, 250
+  orig: 489, 250
+  offset: 0, 0
+  index: -1
+1bg4
+  rotate: false
+  xy: 2, 756
+  size: 978, 500
+  orig: 978, 500
+  offset: 0, 0
+  index: -1
+2bg3
+  rotate: false
+  xy: 493, 2
+  size: 489, 250
+  orig: 489, 250
+  offset: 0, 0
+  index: -1
+2bg4
+  rotate: false
+  xy: 2, 254
+  size: 978, 500
+  orig: 978, 500
+  offset: 0, 0
+  index: -1
+4bg3
+  rotate: false
+  xy: 984, 2
+  size: 489, 250
+  orig: 489, 250
+  offset: 0, 0
+  index: -1
+4bg4
+  rotate: false
+  xy: 982, 756
+  size: 978, 500
+  orig: 978, 500
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: false
+  xy: 1475, 2
+  size: 489, 250
+  orig: 489, 250
+  offset: 0, 0
+  index: -1
+bg4
+  rotate: false
+  xy: 982, 254
+  size: 978, 500
+  orig: 978, 500
+  offset: 0, 0
+  index: -1

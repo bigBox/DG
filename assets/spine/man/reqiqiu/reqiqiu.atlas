@@ -1,0 +1,104 @@
+
+reqiqiu.png
+size: 712,515
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dingbu
+  rotate: false
+  xy: 583, 22
+  size: 97, 34
+  orig: 97, 34
+  offset: 0, 0
+  index: -1
+lanzihou
+  rotate: true
+  xy: 583, 359
+  size: 154, 110
+  orig: 154, 110
+  offset: 0, 0
+  index: -1
+lanziqian
+  rotate: true
+  xy: 583, 230
+  size: 127, 78
+  orig: 127, 78
+  offset: 0, 0
+  index: -1
+qianweilan
+  rotate: true
+  xy: 663, 199
+  size: 158, 46
+  orig: 158, 46
+  offset: 0, 0
+  index: -1
+qiqiu
+  rotate: true
+  xy: 2, 2
+  size: 511, 579
+  orig: 511, 579
+  offset: 0, 0
+  index: -1
+shadai1
+  rotate: false
+  xy: 691, 170
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+shadai2
+  rotate: false
+  xy: 691, 142
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+shadai3
+  rotate: false
+  xy: 691, 114
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+shadaisheng
+  rotate: false
+  xy: 583, 58
+  size: 127, 24
+  orig: 127, 24
+  offset: 0, 0
+  index: -1
+sheng1
+  rotate: true
+  xy: 583, 2
+  size: 18, 96
+  orig: 18, 96
+  offset: 0, 0
+  index: -1
+sheng2
+  rotate: false
+  xy: 695, 411
+  size: 7, 102
+  orig: 7, 102
+  offset: 0, 0
+  index: -1
+sheng3
+  rotate: false
+  xy: 661, 94
+  size: 28, 103
+  orig: 28, 103
+  offset: 0, 0
+  index: -1
+sheng4
+  rotate: false
+  xy: 651, 131
+  size: 8, 97
+  orig: 8, 97
+  offset: 0, 0
+  index: -1
+ying
+  rotate: true
+  xy: 583, 84
+  size: 144, 66
+  orig: 144, 66
+  offset: 0, 0
+  index: -1

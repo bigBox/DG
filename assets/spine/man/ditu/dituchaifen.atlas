@@ -1,0 +1,69 @@
+
+dituchaifen.png
+size: 1938,1067
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 747, 57
+  size: 398, 586
+  orig: 398, 586
+  offset: 0, 0
+  index: -1
+s2
+  rotate: true
+  xy: 256, 457
+  size: 608, 542
+  orig: 608, 542
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 2, 452
+  size: 613, 252
+  orig: 613, 252
+  offset: 0, 0
+  index: -1
+s4
+  rotate: true
+  xy: 1335, 2
+  size: 512, 547
+  orig: 512, 547
+  offset: 0, 0
+  index: -1
+s5
+  rotate: true
+  xy: 2, 13
+  size: 437, 347
+  orig: 437, 347
+  offset: 0, 0
+  index: -1
+s6
+  rotate: true
+  xy: 351, 53
+  size: 402, 394
+  orig: 402, 394
+  offset: 0, 0
+  index: -1
+s7
+  rotate: true
+  xy: 800, 477
+  size: 588, 372
+  orig: 588, 372
+  offset: 0, 0
+  index: -1
+s8
+  rotate: true
+  xy: 1573, 565
+  size: 500, 363
+  orig: 500, 363
+  offset: 0, 0
+  index: -1
+s9
+  rotate: false
+  xy: 1174, 516
+  size: 397, 549
+  orig: 397, 549
+  offset: 0, 0
+  index: -1

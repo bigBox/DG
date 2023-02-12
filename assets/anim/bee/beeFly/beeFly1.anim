@@ -1,0 +1,118 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beeFly1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 7.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -178,
+            110
+          ],
+          "motionPath": [
+            [
+              -82,
+              -75,
+              -148,
+              -76,
+              -25,
+              -74
+            ],
+            [
+              175,
+              -36,
+              119,
+              -86,
+              226,
+              9
+            ]
+          ]
+        },
+        {
+          "frame": 2.9833333333333334,
+          "value": [
+            107,
+            37
+          ],
+          "motionPath": [
+            [
+              29,
+              90,
+              66,
+              99,
+              -6,
+              81
+            ]
+          ]
+        },
+        {
+          "frame": 5,
+          "value": [
+            -38,
+            2
+          ],
+          "motionPath": [
+            [
+              -49,
+              144,
+              -13,
+              120,
+              -85,
+              169
+            ]
+          ]
+        },
+        {
+          "frame": 7.25,
+          "value": [
+            -181,
+            100
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 2.4833333333333334,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.5,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 7.2,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 7.233333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

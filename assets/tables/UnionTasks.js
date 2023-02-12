@@ -1,0 +1,18 @@
+module.exports = new Array(
+	{ID:100001, name:'任务1', path:'images/pictrue/uniontask/', picName:'100001', targetIcon:'T100001', leftTime:3600, exp:200, target:'完成探险', arg:1, dec:'完成1次探险'},
+	{ID:100002, name:'任务2', path:'images/pictrue/uniontask/', picName:'100002', targetIcon:'T100002', leftTime:3601, exp:201, target:'完成挖矿', arg:2, dec:'完成2次挖矿'},
+	{ID:100003, name:'任务3', path:'images/pictrue/uniontask/', picName:'100003', targetIcon:'T100003', leftTime:3602, exp:202, target:'收割小麦', arg:3, dec:'收割3个小麦'},
+	{ID:100004, name:'任务4', path:'images/pictrue/uniontask/', picName:'100004', targetIcon:'T100004', leftTime:3603, exp:203, target:'喂养奶牛', arg:4, dec:'喂养4头奶牛'},
+	{ID:100005, name:'任务5', path:'images/pictrue/uniontask/', picName:'100005', targetIcon:'T100001', leftTime:3604, exp:204, target:'收割萝卜', arg:5, dec:'收割5个萝卜'},
+	{ID:100006, name:'任务6', path:'images/pictrue/uniontask/', picName:'100006', targetIcon:'T100002', leftTime:3605, exp:205, target:'生产饲料', arg:6, dec:'生产6个饲料'},
+	{ID:100007, name:'任务7', path:'images/pictrue/uniontask/', picName:'100007', targetIcon:'T100003', leftTime:3606, exp:206, target:'钓鱼', arg:7, dec:'钓鱼7条'},
+	{ID:100008, name:'任务8', path:'images/pictrue/uniontask/', picName:'100008', targetIcon:'T100004', leftTime:3607, exp:207, target:'仙岛寻宝', arg:8, dec:'仙岛寻宝6次'},
+	{ID:100009, name:'任务9', path:'images/pictrue/uniontask/', picName:'100009', targetIcon:'T100001', leftTime:3608, exp:208, target:'帮助朋友', arg:9, dec:'帮助朋友9次'},
+	{ID:100010, name:'任务10', path:'images/pictrue/uniontask/', picName:'100010', targetIcon:'T100002', leftTime:3609, exp:209, target:'完成小镇任务', arg:10, dec:'完成10个小镇任务'},
+	{ID:100011, name:'任务11', path:'images/pictrue/uniontask/', picName:'100011', targetIcon:'T100003', leftTime:3610, exp:210, target:'合成装备', arg:11, dec:'合成11个装备'},
+	{ID:100012, name:'任务12', path:'images/pictrue/uniontask/', picName:'100012', targetIcon:'T100004', leftTime:3611, exp:211, target:'合成道具', arg:12, dec:'合成12个道具'},
+	{ID:100013, name:'任务13', path:'images/pictrue/uniontask/', picName:'100013', targetIcon:'T100001', leftTime:3612, exp:212, target:'装船任务', arg:13, dec:'装船13次'},
+	{ID:100014, name:'任务14', path:'images/pictrue/uniontask/', picName:'100014', targetIcon:'T100002', leftTime:3613, exp:213, target:'喂养猪', arg:14, dec:'喂养14次猪'},
+	{ID:100015, name:'任务15', path:'images/pictrue/uniontask/', picName:'100015', targetIcon:'T100003', leftTime:3614, exp:214, target:'收割大豆', arg:15, dec:'收割15组大豆'},
+	{ID:100016, name:'任务16', path:'images/pictrue/uniontask/', picName:'100016', targetIcon:'T100004', leftTime:3615, exp:215, target:'生产草莓', arg:16, dec:'生产16个草莓'},
+);

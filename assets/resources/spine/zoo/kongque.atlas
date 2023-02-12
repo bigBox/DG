@@ -1,0 +1,279 @@
+
+kongque.png
+size: 1818,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 777, 7
+  size: 181, 154
+  orig: 185, 157
+  offset: 0, 3
+  index: -1
+bozi
+  rotate: false
+  xy: 624, 4
+  size: 88, 144
+  orig: 181, 179
+  offset: 0, 34
+  index: -1
+chibang
+  rotate: false
+  xy: 2, 7
+  size: 198, 124
+  orig: 198, 124
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 595, 150
+  size: 60, 32
+  orig: 62, 32
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 1683, 374
+  size: 110, 101
+  orig: 110, 101
+  offset: 0, 0
+  index: -1
+jiemao1
+  rotate: true
+  xy: 341, 141
+  size: 39, 15
+  orig: 40, 15
+  offset: 1, 0
+  index: -1
+jiemao2
+  rotate: false
+  xy: 657, 161
+  size: 43, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 1623, 134
+  size: 57, 105
+  orig: 57, 105
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 1754, 133
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 1623, 39
+  size: 93, 54
+  orig: 93, 54
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: false
+  xy: 1754, 33
+  size: 46, 98
+  orig: 46, 98
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: true
+  xy: 1683, 301
+  size: 71, 109
+  orig: 71, 109
+  offset: 0, 0
+  index: -1
+weiba1-1
+  rotate: false
+  xy: 1312, 2
+  size: 143, 52
+  orig: 143, 52
+  offset: 0, 0
+  index: -1
+weiba1-2
+  rotate: true
+  xy: 714, 25
+  size: 157, 61
+  orig: 157, 74
+  offset: 0, 13
+  index: -1
+weiba1-3
+  rotate: true
+  xy: 202, 3
+  size: 134, 98
+  orig: 134, 98
+  offset: 0, 0
+  index: -1
+weiba1-4
+  rotate: false
+  xy: 1312, 56
+  size: 93, 156
+  orig: 93, 156
+  offset: 0, 0
+  index: -1
+weiba1-5
+  rotate: true
+  xy: 1683, 477
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+weiba1-6
+  rotate: true
+  xy: 251, 139
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+weiba2-1
+  rotate: true
+  xy: 553, 4
+  size: 136, 69
+  orig: 136, 69
+  offset: 0, 0
+  index: -1
+weiba2-10
+  rotate: false
+  xy: 178, 139
+  size: 71, 382
+  orig: 71, 382
+  offset: 0, 0
+  index: -1
+weiba2-11
+  rotate: false
+  xy: 1567, 16
+  size: 54, 223
+  orig: 54, 223
+  offset: 0, 0
+  index: -1
+weiba2-12
+  rotate: false
+  xy: 1407, 126
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+weiba2-2
+  rotate: false
+  xy: 358, 142
+  size: 235, 38
+  orig: 235, 38
+  offset: 0, 0
+  index: -1
+weiba2-3
+  rotate: true
+  xy: 831, 205
+  size: 316, 122
+  orig: 316, 122
+  offset: 0, 0
+  index: -1
+weiba2-4
+  rotate: true
+  xy: 1042, 212
+  size: 309, 147
+  orig: 309, 147
+  offset: 0, 0
+  index: -1
+weiba2-5
+  rotate: true
+  xy: 251, 182
+  size: 339, 316
+  orig: 339, 316
+  offset: 0, 0
+  index: -1
+weiba2-6
+  rotate: false
+  xy: 1404, 241
+  size: 277, 280
+  orig: 277, 280
+  offset: 0, 0
+  index: -1
+weiba2-7
+  rotate: true
+  xy: 933, 4
+  size: 199, 252
+  orig: 199, 252
+  offset: 0, 0
+  index: -1
+weiba2-8
+  rotate: false
+  xy: 2, 133
+  size: 174, 388
+  orig: 174, 388
+  offset: 0, 0
+  index: -1
+weiba2-9
+  rotate: false
+  xy: 1457, 12
+  size: 108, 227
+  orig: 108, 227
+  offset: 0, 0
+  index: -1
+weiba3-1
+  rotate: true
+  xy: 1263, 16
+  size: 196, 47
+  orig: 196, 47
+  offset: 0, 0
+  index: -1
+weiba3-2
+  rotate: true
+  xy: 754, 190
+  size: 331, 75
+  orig: 331, 75
+  offset: 0, 0
+  index: -1
+weiba3-3
+  rotate: false
+  xy: 302, 6
+  size: 249, 131
+  orig: 249, 131
+  offset: 0, 0
+  index: -1
+weiba3-4
+  rotate: true
+  xy: 1191, 214
+  size: 307, 211
+  orig: 307, 211
+  offset: 0, 0
+  index: -1
+weiba3-5
+  rotate: false
+  xy: 569, 184
+  size: 183, 337
+  orig: 183, 337
+  offset: 0, 0
+  index: -1
+weiba3-6
+  rotate: false
+  xy: 955, 210
+  size: 85, 311
+  orig: 85, 311
+  offset: 0, 0
+  index: -1
+weiba3-7
+  rotate: false
+  xy: 1683, 25
+  size: 69, 274
+  orig: 69, 274
+  offset: 0, 0
+  index: -1
+weiba3-8
+  rotate: false
+  xy: 1187, 3
+  size: 74, 207
+  orig: 74, 207
+  offset: 0, 0
+  index: -1
+weiba3-9
+  rotate: false
+  xy: 1754, 213
+  size: 62, 86
+  orig: 62, 86
+  offset: 0, 0
+  index: -1

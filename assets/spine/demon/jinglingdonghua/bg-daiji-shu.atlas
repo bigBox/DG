@@ -1,0 +1,1017 @@
+
+bg-daiji-shu.png
+size: 2036,1973
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1da-1-6
+  rotate: false
+  xy: 499, 883
+  size: 527, 267
+  orig: 527, 267
+  offset: 0, 0
+  index: -1
+1da-2-5
+  rotate: false
+  xy: 1369, 497
+  size: 505, 278
+  orig: 507, 278
+  offset: 0, 0
+  index: -1
+1da-2-6
+  rotate: false
+  xy: 878, 1821
+  size: 270, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+1ef1
+  rotate: true
+  xy: 2, 678
+  size: 288, 307
+  orig: 288, 308
+  offset: 0, 1
+  index: -1
+1ef5
+  rotate: false
+  xy: 1793, 1579
+  size: 241, 240
+  orig: 280, 282
+  offset: 20, 21
+  index: -1
+1water-gaoguang
+  rotate: false
+  xy: 2, 1736
+  size: 199, 163
+  orig: 1105, 923
+  offset: 542, 318
+  index: -1
+2da-1-6
+  rotate: false
+  xy: 1028, 835
+  size: 527, 267
+  orig: 527, 267
+  offset: 0, 0
+  index: -1
+2da-2-5
+  rotate: false
+  xy: 311, 334
+  size: 505, 278
+  orig: 507, 278
+  offset: 0, 0
+  index: -1
+2da-2-6
+  rotate: false
+  xy: 1150, 1821
+  size: 270, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+2ef1
+  rotate: true
+  xy: 2, 388
+  size: 288, 307
+  orig: 288, 308
+  offset: 0, 1
+  index: -1
+2ef5
+  rotate: false
+  xy: 698, 1392
+  size: 241, 240
+  orig: 280, 282
+  offset: 20, 21
+  index: -1
+4da-1-6
+  rotate: false
+  xy: 311, 614
+  size: 527, 267
+  orig: 527, 267
+  offset: 0, 0
+  index: -1
+4da-2-5
+  rotate: false
+  xy: 818, 286
+  size: 505, 278
+  orig: 507, 278
+  offset: 0, 0
+  index: -1
+4da-2-6
+  rotate: false
+  xy: 1422, 1821
+  size: 270, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+4ef1
+  rotate: true
+  xy: 2, 98
+  size: 288, 307
+  orig: 288, 308
+  offset: 0, 1
+  index: -1
+4ef5
+  rotate: false
+  xy: 1657, 1337
+  size: 241, 240
+  orig: 280, 282
+  offset: 20, 21
+  index: -1
+c1
+  rotate: false
+  xy: 407, 1883
+  size: 99, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+c6
+  rotate: false
+  xy: 508, 1873
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+da-1-6
+  rotate: false
+  xy: 840, 566
+  size: 527, 267
+  orig: 527, 267
+  offset: 0, 0
+  index: -1
+da-2-5
+  rotate: false
+  xy: 1325, 217
+  size: 505, 278
+  orig: 507, 278
+  offset: 0, 0
+  index: -1
+da-2-6
+  rotate: false
+  xy: 1694, 1821
+  size: 270, 150
+  orig: 270, 150
+  offset: 0, 0
+  index: -1
+da-shugan1
+  rotate: false
+  xy: 1007, 1623
+  size: 424, 196
+  orig: 424, 197
+  offset: 0, 0
+  index: -1
+ef1
+  rotate: true
+  xy: 311, 44
+  size: 288, 307
+  orig: 288, 308
+  offset: 0, 1
+  index: -1
+ef5
+  rotate: false
+  xy: 2, 1246
+  size: 241, 240
+  orig: 280, 282
+  offset: 20, 21
+  index: -1
+h1
+  rotate: true
+  xy: 621, 1873
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 155, 1901
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+luoye1
+  rotate: false
+  xy: 83, 1906
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+luoye2
+  rotate: true
+  xy: 320, 1888
+  size: 83, 85
+  orig: 83, 85
+  offset: 0, 0
+  index: -1
+luoye3
+  rotate: true
+  xy: 2, 1915
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+luoye4
+  rotate: false
+  xy: 237, 1891
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+xiao-1-5
+  rotate: false
+  xy: 1433, 1617
+  size: 358, 202
+  orig: 358, 202
+  offset: 0, 0
+  index: -1
+xiao-2-4
+  rotate: false
+  xy: 620, 2
+  size: 628, 282
+  orig: 628, 282
+  offset: 0, 0
+  index: -1
+xiao-2-5
+  rotate: false
+  xy: 559, 1152
+  size: 658, 231
+  orig: 658, 231
+  offset: 0, 0
+  index: -1
+xiao-2-6
+  rotate: false
+  xy: 449, 1694
+  size: 346, 177
+  orig: 346, 177
+  offset: 0, 0
+  index: -1
+xiao-3-7
+  rotate: false
+  xy: 1643, 1063
+  size: 350, 272
+  orig: 350, 272
+  offset: 0, 0
+  index: -1
+xiao-4-4
+  rotate: false
+  xy: 1557, 777
+  size: 376, 284
+  orig: 376, 284
+  offset: 0, 0
+  index: -1
+xiao-4-5
+  rotate: false
+  xy: 245, 1234
+  size: 312, 241
+  orig: 312, 241
+  offset: 0, 0
+  index: -1
+xiao-4-6
+  rotate: false
+  xy: 731, 1873
+  size: 145, 98
+  orig: 145, 98
+  offset: 0, 0
+  index: -1
+xiao-5-1
+  rotate: false
+  xy: 2, 968
+  size: 495, 264
+  orig: 495, 264
+  offset: 0, 0
+  index: -1
+xiao-5-3
+  rotate: false
+  xy: 941, 1385
+  size: 383, 236
+  orig: 383, 236
+  offset: 0, 0
+  index: -1
+xiao-5-4
+  rotate: false
+  xy: 2, 1488
+  size: 373, 210
+  orig: 373, 210
+  offset: 0, 0
+  index: -1
+xiao-5-5
+  rotate: false
+  xy: 203, 1700
+  size: 244, 181
+  orig: 244, 181
+  offset: 0, 0
+  index: -1
+xiao-6-1
+  rotate: false
+  xy: 1219, 1104
+  size: 422, 271
+  orig: 422, 271
+  offset: 0, 0
+  index: -1
+xiao-6-3
+  rotate: false
+  xy: 1326, 1377
+  size: 329, 238
+  orig: 329, 238
+  offset: 0, 0
+  index: -1
+xiao-6-4
+  rotate: false
+  xy: 377, 1477
+  size: 319, 215
+  orig: 319, 215
+  offset: 0, 0
+  index: -1
+xiao-6-5
+  rotate: false
+  xy: 797, 1634
+  size: 208, 185
+  orig: 208, 185
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu2.png
+size: 1961,2020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2heye
+  rotate: true
+  xy: 1105, 1011
+  size: 1007, 851
+  orig: 1007, 851
+  offset: 0, 0
+  index: -1
+4heye
+  rotate: false
+  xy: 2, 962
+  size: 1101, 1056
+  orig: 1101, 1056
+  offset: 0, 0
+  index: -1
+heye
+  rotate: true
+  xy: 1108, 2
+  size: 1007, 851
+  orig: 1007, 851
+  offset: 0, 0
+  index: -1
+water-gaoguang
+  rotate: false
+  xy: 2, 38
+  size: 1104, 922
+  orig: 1105, 923
+  offset: 1, 0
+  index: -1
+
+bg-daiji-shu3.png
+size: 2035,1801
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1da-1-1
+  rotate: true
+  xy: 1335, 553
+  size: 1246, 544
+  orig: 1246, 544
+  offset: 0, 0
+  index: -1
+1da-2-1
+  rotate: false
+  xy: 1250, 2
+  size: 783, 549
+  orig: 783, 549
+  offset: 0, 0
+  index: -1
+2da-1-1
+  rotate: false
+  xy: 2, 7
+  size: 1246, 544
+  orig: 1246, 544
+  offset: 0, 0
+  index: -1
+4da-1-1
+  rotate: false
+  xy: 2, 628
+  size: 1246, 544
+  orig: 1246, 544
+  offset: 0, 0
+  index: -1
+da-shugan2
+  rotate: false
+  xy: 2, 1174
+  size: 1331, 625
+  orig: 1331, 625
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu4.png
+size: 2034,1800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1da-1-2
+  rotate: true
+  xy: 1250, 553
+  size: 1245, 532
+  orig: 1245, 534
+  offset: 0, 2
+  index: -1
+2da-1-2
+  rotate: false
+  xy: 2, 19
+  size: 1245, 532
+  orig: 1245, 534
+  offset: 0, 2
+  index: -1
+2da-2-1
+  rotate: false
+  xy: 1249, 2
+  size: 783, 549
+  orig: 783, 549
+  offset: 0, 0
+  index: -1
+4da-1-2
+  rotate: false
+  xy: 2, 720
+  size: 1245, 532
+  orig: 1245, 534
+  offset: 0, 2
+  index: -1
+da-1-1
+  rotate: false
+  xy: 2, 1254
+  size: 1246, 544
+  orig: 1246, 544
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu5.png
+size: 1992,2046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1da-1-3
+  rotate: true
+  xy: 2, 259
+  size: 1251, 480
+  orig: 1251, 480
+  offset: 0, 0
+  index: -1
+2da-1-3
+  rotate: true
+  xy: 484, 259
+  size: 1251, 480
+  orig: 1251, 480
+  offset: 0, 0
+  index: -1
+2water-gaoguang
+  rotate: false
+  xy: 1249, 1564
+  size: 741, 480
+  orig: 1105, 923
+  offset: 1, 0
+  index: -1
+4da-1-3
+  rotate: true
+  xy: 966, 259
+  size: 1251, 480
+  orig: 1251, 480
+  offset: 0, 0
+  index: -1
+da-1-2
+  rotate: false
+  xy: 2, 1512
+  size: 1245, 532
+  orig: 1245, 534
+  offset: 0, 2
+  index: -1
+da-1-3
+  rotate: true
+  xy: 1448, 311
+  size: 1251, 480
+  orig: 1251, 480
+  offset: 0, 0
+  index: -1
+xiao-1-4
+  rotate: false
+  xy: 1448, 2
+  size: 448, 307
+  orig: 448, 307
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu6.png
+size: 2045,1928
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1chui2
+  rotate: false
+  xy: 1183, 62
+  size: 555, 683
+  orig: 556, 684
+  offset: 0, 0
+  index: -1
+1da-1-4
+  rotate: false
+  xy: 2, 1431
+  size: 1179, 495
+  orig: 1179, 495
+  offset: 0, 0
+  index: -1
+1da-1-5
+  rotate: true
+  xy: 1680, 1161
+  size: 765, 353
+  orig: 765, 353
+  offset: 0, 0
+  index: -1
+2da-1-4
+  rotate: false
+  xy: 2, 934
+  size: 1179, 495
+  orig: 1179, 495
+  offset: 0, 0
+  index: -1
+4da-1-4
+  rotate: false
+  xy: 2, 437
+  size: 1179, 495
+  orig: 1179, 495
+  offset: 0, 0
+  index: -1
+4stone1
+  rotate: false
+  xy: 2, 149
+  size: 1103, 286
+  orig: 1103, 286
+  offset: 0, 0
+  index: -1
+da-1-4
+  rotate: true
+  xy: 1183, 747
+  size: 1179, 495
+  orig: 1179, 495
+  offset: 0, 0
+  index: -1
+xiao-1-2
+  rotate: false
+  xy: 1740, 2
+  size: 303, 336
+  orig: 303, 336
+  offset: 0, 0
+  index: -1
+xiao-5-2
+  rotate: true
+  xy: 1740, 340
+  size: 439, 299
+  orig: 439, 299
+  offset: 0, 0
+  index: -1
+xiao-6-2
+  rotate: true
+  xy: 1680, 781
+  size: 378, 302
+  orig: 378, 302
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu7.png
+size: 2018,1992
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1da-2-3
+  rotate: false
+  xy: 769, 410
+  size: 535, 379
+  orig: 535, 379
+  offset: 0, 0
+  index: -1
+1da-2-4
+  rotate: false
+  xy: 2, 986
+  size: 532, 345
+  orig: 532, 345
+  offset: 0, 0
+  index: -1
+1ef2
+  rotate: true
+  xy: 1527, 1111
+  size: 483, 489
+  orig: 513, 524
+  offset: 15, 15
+  index: -1
+1stone1
+  rotate: false
+  xy: 1096, 1670
+  size: 502, 320
+  orig: 885, 402
+  offset: 383, 0
+  index: -1
+2da-1-5
+  rotate: false
+  xy: 2, 623
+  size: 765, 353
+  orig: 765, 353
+  offset: 0, 0
+  index: -1
+2da-2-3
+  rotate: false
+  xy: 1306, 383
+  size: 535, 379
+  orig: 535, 379
+  offset: 0, 0
+  index: -1
+2da-2-4
+  rotate: false
+  xy: 536, 978
+  size: 532, 345
+  orig: 532, 345
+  offset: 0, 0
+  index: -1
+4da-1-5
+  rotate: false
+  xy: 2, 268
+  size: 765, 353
+  orig: 765, 353
+  offset: 0, 0
+  index: -1
+4da-2-3
+  rotate: false
+  xy: 769, 29
+  size: 535, 379
+  orig: 535, 379
+  offset: 0, 0
+  index: -1
+4da-2-4
+  rotate: true
+  xy: 1070, 791
+  size: 532, 345
+  orig: 532, 345
+  offset: 0, 0
+  index: -1
+da-2-3
+  rotate: false
+  xy: 1306, 2
+  size: 535, 379
+  orig: 535, 379
+  offset: 0, 0
+  index: -1
+da-2-4
+  rotate: false
+  xy: 1417, 764
+  size: 532, 345
+  orig: 532, 345
+  offset: 0, 0
+  index: -1
+xiao-1-1
+  rotate: false
+  xy: 966, 1325
+  size: 559, 343
+  orig: 559, 343
+  offset: 0, 0
+  index: -1
+xiao-1-3
+  rotate: false
+  xy: 2, 1349
+  size: 480, 324
+  orig: 480, 324
+  offset: 0, 0
+  index: -1
+xiao-2-3
+  rotate: false
+  xy: 363, 1675
+  size: 731, 315
+  orig: 731, 315
+  offset: 0, 0
+  index: -1
+xiao-3-6
+  rotate: true
+  xy: 1600, 1596
+  size: 394, 411
+  orig: 394, 411
+  offset: 0, 0
+  index: -1
+xiao-4-2
+  rotate: false
+  xy: 484, 1333
+  size: 480, 340
+  orig: 480, 340
+  offset: 0, 0
+  index: -1
+xiao-4-3
+  rotate: false
+  xy: 2, 1683
+  size: 359, 307
+  orig: 359, 307
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu8.png
+size: 2033,1633
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2chui1
+  rotate: false
+  xy: 2, 443
+  size: 779, 407
+  orig: 779, 407
+  offset: 0, 0
+  index: -1
+4chui1
+  rotate: false
+  xy: 783, 417
+  size: 779, 407
+  orig: 779, 407
+  offset: 0, 0
+  index: -1
+chui1
+  rotate: false
+  xy: 2, 34
+  size: 779, 407
+  orig: 779, 407
+  offset: 0, 0
+  index: -1
+da-1-5
+  rotate: false
+  xy: 2, 1278
+  size: 765, 353
+  orig: 765, 353
+  offset: 0, 0
+  index: -1
+stone1
+  rotate: false
+  xy: 2, 852
+  size: 885, 402
+  orig: 885, 402
+  offset: 0, 0
+  index: -1
+xiao-2-1
+  rotate: false
+  xy: 783, 2
+  size: 939, 413
+  orig: 939, 413
+  offset: 0, 0
+  index: -1
+xiao-2-2
+  rotate: false
+  xy: 769, 1256
+  size: 874, 375
+  orig: 874, 375
+  offset: 0, 0
+  index: -1
+xiao-3-1
+  rotate: false
+  xy: 889, 826
+  size: 676, 428
+  orig: 676, 428
+  offset: 0, 0
+  index: -1
+xiao-3-4
+  rotate: true
+  xy: 1567, 547
+  size: 549, 435
+  orig: 549, 435
+  offset: 0, 0
+  index: -1
+xiao-4-1
+  rotate: true
+  xy: 1645, 1098
+  size: 533, 386
+  orig: 533, 386
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu9.png
+size: 1830,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1da-2-2
+  rotate: false
+  xy: 935, 450
+  size: 722, 479
+  orig: 722, 479
+  offset: 0, 0
+  index: -1
+1shugan
+  rotate: false
+  xy: 978, 1482
+  size: 850, 564
+  orig: 850, 564
+  offset: 0, 0
+  index: -1
+2shugan
+  rotate: false
+  xy: 2, 916
+  size: 931, 564
+  orig: 931, 564
+  offset: 0, 0
+  index: -1
+4da-2-1
+  rotate: false
+  xy: 2, 365
+  size: 783, 549
+  orig: 783, 549
+  offset: 0, 0
+  index: -1
+da-2-1
+  rotate: false
+  xy: 935, 931
+  size: 783, 549
+  orig: 783, 549
+  offset: 0, 0
+  index: -1
+shugan
+  rotate: false
+  xy: 2, 1482
+  size: 974, 564
+  orig: 974, 564
+  offset: 0, 0
+  index: -1
+xiao-3-3
+  rotate: false
+  xy: 787, 2
+  size: 571, 446
+  orig: 571, 446
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu10.png
+size: 2004,1843
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1dong1
+  rotate: false
+  xy: 726, 1168
+  size: 637, 673
+  orig: 644, 675
+  offset: 4, 1
+  index: -1
+2chui2
+  rotate: true
+  xy: 2, 130
+  size: 555, 683
+  orig: 556, 684
+  offset: 0, 0
+  index: -1
+2da-2-2
+  rotate: false
+  xy: 2, 1362
+  size: 722, 479
+  orig: 722, 479
+  offset: 0, 0
+  index: -1
+2dong1
+  rotate: false
+  xy: 2, 687
+  size: 637, 673
+  orig: 644, 675
+  offset: 4, 1
+  index: -1
+4chui2
+  rotate: false
+  xy: 687, 2
+  size: 555, 683
+  orig: 556, 684
+  offset: 0, 0
+  index: -1
+4da-2-2
+  rotate: false
+  xy: 641, 687
+  size: 722, 479
+  orig: 722, 479
+  offset: 0, 0
+  index: -1
+4dong1
+  rotate: false
+  xy: 1365, 1168
+  size: 637, 673
+  orig: 644, 675
+  offset: 4, 1
+  index: -1
+da-2-2
+  rotate: false
+  xy: 1244, 12
+  size: 722, 479
+  orig: 722, 479
+  offset: 0, 0
+  index: -1
+dong1
+  rotate: false
+  xy: 1365, 493
+  size: 637, 673
+  orig: 644, 675
+  offset: 4, 1
+  index: -1
+
+bg-daiji-shu11.png
+size: 1947,1849
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1dong2
+  rotate: false
+  xy: 2, 789
+  size: 506, 556
+  orig: 765, 882
+  offset: 97, 169
+  index: -1
+1ef3
+  rotate: false
+  xy: 1257, 1361
+  size: 497, 486
+  orig: 511, 500
+  offset: 7, 7
+  index: -1
+2dong2
+  rotate: true
+  xy: 510, 656
+  size: 506, 556
+  orig: 765, 882
+  offset: 97, 169
+  index: -1
+2ef3
+  rotate: false
+  xy: 960, 118
+  size: 497, 486
+  orig: 511, 500
+  offset: 7, 7
+  index: -1
+4dong2
+  rotate: false
+  xy: 2, 231
+  size: 506, 556
+  orig: 765, 882
+  offset: 97, 169
+  index: -1
+4ef3
+  rotate: true
+  xy: 1459, 107
+  size: 497, 486
+  orig: 511, 500
+  offset: 7, 7
+  index: -1
+chui2
+  rotate: false
+  xy: 700, 1164
+  size: 555, 683
+  orig: 556, 684
+  offset: 0, 0
+  index: -1
+dong2
+  rotate: false
+  xy: 1068, 606
+  size: 504, 556
+  orig: 514, 575
+  offset: 0, 15
+  index: -1
+ef4
+  rotate: false
+  xy: 2, 1347
+  size: 696, 500
+  orig: 795, 500
+  offset: 19, 0
+  index: -1
+xiao-3-2
+  rotate: true
+  xy: 510, 2
+  size: 652, 448
+  orig: 652, 448
+  offset: 0, 0
+  index: -1
+
+bg-daiji-shu12.png
+size: 1956,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2ef2
+  rotate: false
+  xy: 2, 2
+  size: 483, 489
+  orig: 513, 524
+  offset: 15, 15
+  index: -1
+4ef2
+  rotate: false
+  xy: 487, 2
+  size: 483, 489
+  orig: 513, 524
+  offset: 15, 15
+  index: -1
+ef2
+  rotate: false
+  xy: 972, 2
+  size: 483, 489
+  orig: 513, 524
+  offset: 15, 15
+  index: -1
+ef3
+  rotate: false
+  xy: 1457, 5
+  size: 497, 486
+  orig: 511, 500
+  offset: 7, 7
+  index: -1

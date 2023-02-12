@@ -1,0 +1,34 @@
+
+lightItem.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+shanguang1
+  rotate: false
+  xy: 999, 97
+  size: 405, 405
+  orig: 405, 405
+  offset: 0, 0
+  index: -1
+shanguang2
+  rotate: false
+  xy: 504, 12
+  size: 493, 490
+  orig: 493, 490
+  offset: 0, 0
+  index: -1
+shanguang3
+  rotate: false
+  xy: 1406, 113
+  size: 405, 389
+  orig: 405, 389
+  offset: 0, 0
+  index: -1

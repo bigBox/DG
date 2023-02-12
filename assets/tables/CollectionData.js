@@ -1,0 +1,17 @@
+module.exports = new Array(
+	{ID:1001, name:'恐龙蛋', num:5, path:'images/ui/collection/', picName:'1001', type:1, rewardExp:200, rewardGold:1000},
+	{ID:1002, name:'漂亮瓶', num:5, path:'images/ui/collection/', picName:'1002', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1003, name:'好看碗', num:5, path:'images/ui/collection/', picName:'1003', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1004, name:'宝物盆景', num:5, path:'images/ui/collection/', picName:'1004', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1005, name:'鼻烟壶', num:8, path:'images/ui/collection/', picName:'1005', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1006, name:'多姿壶', num:7, path:'images/ui/collection/', picName:'1006', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1007, name:'鼎和香炉', num:5, path:'images/ui/collection/', picName:'1007', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1008, name:'精致摆件', num:11, path:'images/ui/collection/', picName:'1008', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1009, name:'美冠', num:6, path:'images/ui/collection/', picName:'1009', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1010, name:'扇子', num:7, path:'images/ui/collection/', picName:'1010', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1011, name:'钱币', num:6, path:'images/ui/collection/', picName:'1011', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1012, name:'民国海报', num:8, path:'images/ui/collection/', picName:'1012', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1013, name:'兽首', num:12, path:'images/ui/collection/', picName:'1013', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1014, name:'神兽', num:6, path:'images/ui/collection/', picName:'1014', type:2, rewardExp:200, rewardGold:1000},
+	{ID:1015, name:'烛台香薰', num:6, path:'images/ui/collection/', picName:'1015', type:2, rewardExp:200, rewardGold:1000},
+);

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "82af141b-224e-4ed0-a6d5-4d74a55d5c8d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": true,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1799,
+  "height": 1842,
+  "platformSettings": {},
+  "subMetas": {
+    "bg-daiji-shu13": {
+      "ver": "1.0.4",
+      "uuid": "70fda782-ab8b-488c-bfb2-ce0f91f75453",
+      "rawTextureUuid": "82af141b-224e-4ed0-a6d5-4d74a55d5c8d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1795,
+      "height": 1838,
+      "rawWidth": 1799,
+      "rawHeight": 1842,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

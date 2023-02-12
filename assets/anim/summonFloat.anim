@@ -1,0 +1,68 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "summonFloat",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.9,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {},
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -49,
+            72,
+            0
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -47.326,
+            -14.978,
+            0
+          ]
+        },
+        {
+          "frame": 1.9,
+          "value": [
+            -47.367,
+            -14.494,
+            0
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 2,
+            "y": 2
+          }
+        },
+        {
+          "frame": 1.9,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 2.83,
+            "y": 2.83
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

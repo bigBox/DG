@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pickItemMove2",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -138,
+            86
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -343,
+            103
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -551,
+            110
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

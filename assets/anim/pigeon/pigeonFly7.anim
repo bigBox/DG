@@ -1,0 +1,199 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pigeonFly7",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8166666666666667,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -1,
+            303
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            74,
+            364
+          ],
+          "motionPath": [
+            [
+              645,
+              606,
+              372,
+              603,
+              833,
+              609
+            ]
+          ]
+        },
+        {
+          "frame": 0.75,
+          "value": [
+            1030,
+            377
+          ],
+          "motionPath": [
+            [
+              1055,
+              214,
+              1112,
+              288,
+              985,
+              124
+            ],
+            [
+              961,
+              70,
+              1033,
+              148,
+              909,
+              13
+            ],
+            [
+              808,
+              -10,
+              840,
+              2,
+              590,
+              -92
+            ]
+          ]
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": [
+            253,
+            227
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.45,
+          "value": [
+            208,
+            291
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.8166666666666667,
+          "value": [
+            5,
+            299
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.25
+          }
+        },
+        {
+          "frame": 0.1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.25,
+            "y": 0.25
+          }
+        },
+        {
+          "frame": 0.21666666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.4,
+            "y": 0.4
+          }
+        },
+        {
+          "frame": 0.8666666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -0.4,
+            "y": 0.4
+          }
+        },
+        {
+          "frame": 1.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -0.4,
+            "y": 0.4
+          }
+        },
+        {
+          "frame": 1.45,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -0.25,
+            "y": 0.25
+          }
+        },
+        {
+          "frame": 1.8166666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -0.25,
+            "y": 0.25
+          }
+        }
+      ]
+    },
+    "comps": {
+      "sp.Skeleton": {
+        "_animationIndex": []
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "onBeginFly",
+      "params": []
+    },
+    {
+      "frame": 0.03333333333333333,
+      "func": "onFly",
+      "params": []
+    },
+    {
+      "frame": 1.3333333333333333,
+      "func": "onBeginLoad",
+      "params": []
+    },
+    {
+      "frame": 1.45,
+      "func": "onBeginWalk",
+      "params": []
+    }
+  ]
+}

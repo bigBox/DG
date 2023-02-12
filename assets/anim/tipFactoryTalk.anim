@@ -1,0 +1,76 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "tipFactoryTalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.5166666666666666,
+  "sample": 60,
+  "speed": 0.75,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            -290
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.5166666666666666,
+          "value": [
+            0,
+            750
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 255
+        },
+        {
+          "frame": 1.95,
+          "value": 255
+        },
+        {
+          "frame": 2.5166666666666666,
+          "value": 0
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0.6,
+            "y": 0.6
+          }
+        },
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 2.5,
+      "func": "paopaoEnd",
+      "params": [
+        1
+      ]
+    }
+  ]
+}

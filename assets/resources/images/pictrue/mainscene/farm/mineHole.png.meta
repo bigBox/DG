@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0f39d562-d030-4a15-b058-701900f05917",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 379,
+  "height": 177,
+  "platformSettings": {},
+  "subMetas": {
+    "mineHole": {
+      "ver": "1.0.4",
+      "uuid": "556d1ba7-cfe5-4734-a2ae-e7e36757cd97",
+      "rawTextureUuid": "0f39d562-d030-4a15-b058-701900f05917",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 379,
+      "height": 177,
+      "rawWidth": 379,
+      "rawHeight": 177,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+lightItemN.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+shanguang2
+  rotate: false
+  xy: 504, 12
+  size: 493, 490
+  orig: 493, 490
+  offset: 0, 0
+  index: -1

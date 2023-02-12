@@ -1,0 +1,166 @@
+
+nongchang.png
+size: 2024,1752
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++2
+  rotate: false
+  xy: 528, 1644
+  size: 178, 106
+  orig: 292, 107
+  offset: 84, 1
+  index: -1
+dan+2
+  rotate: false
+  xy: 368, 1649
+  size: 158, 101
+  orig: 292, 107
+  offset: 104, 3
+  index: -1
+kong
+  rotate: false
+  xy: 2, 1749
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 689, 1291
+  size: 478, 270
+  orig: 482, 270
+  offset: 2, 0
+  index: -1
+lanzi
+  rotate: false
+  xy: 716, 638
+  size: 811, 557
+  orig: 1000, 1000
+  offset: 110, 224
+  index: -1
+liandao
+  rotate: false
+  xy: 88, 1665
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+mai1
+  rotate: false
+  xy: 2, 1388
+  size: 314, 262
+  orig: 316, 263
+  offset: 0, 0
+  index: -1
+mai2
+  rotate: false
+  xy: 318, 1362
+  size: 369, 280
+  orig: 370, 281
+  offset: 0, 0
+  index: -1
+mai3
+  rotate: false
+  xy: 1169, 1197
+  size: 361, 301
+  orig: 363, 302
+  offset: 0, 0
+  index: -1
+mai4
+  rotate: false
+  xy: 2, 39
+  size: 912, 597
+  orig: 913, 598
+  offset: 0, 0
+  index: -1
+maidi
+  rotate: false
+  xy: 916, 2
+  size: 1106, 634
+  orig: 1106, 634
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 867, 1612
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 708, 1613
+  size: 137, 157
+  orig: 137, 158
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: false
+  xy: 5, 1697
+  size: 81, 53
+  orig: 82, 53
+  offset: 1, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 1045, 1563
+  size: 211, 187
+  orig: 211, 187
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: false
+  xy: 1593, 1498
+  size: 268, 252
+  orig: 269, 252
+  offset: 1, 0
+  index: -1
+xian3
+  rotate: false
+  xy: 1258, 1500
+  size: 333, 250
+  orig: 334, 250
+  offset: 1, 0
+  index: -1
+xiandi
+  rotate: false
+  xy: 2, 880
+  size: 712, 409
+  orig: 712, 409
+  offset: 0, 0
+  index: -1
+yu+2
+  rotate: false
+  xy: 193, 1652
+  size: 173, 98
+  orig: 292, 107
+  offset: 89, 5
+  index: -1
+
+nongchang2.png
+size: 1890,1405
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cabkao
+  rotate: false
+  xy: 782, 768
+  size: 1106, 635
+  orig: 1106, 635
+  offset: 0, 0
+  index: -1
+yudi
+  rotate: true
+  xy: 2, 86
+  size: 1317, 778
+  orig: 1320, 788
+  offset: 1, 0
+  index: -1
+yuwang
+  rotate: false
+  xy: 782, 2
+  size: 907, 764
+  orig: 1000, 1000
+  offset: 28, 69
+  index: -1

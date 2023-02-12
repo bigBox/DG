@@ -1,0 +1,230 @@
+{
+"skeleton": { "hash": "Gm2b3idJ3EK1Fw51lviCaDzFSIo", "spine": "3.7.91", "width": 202, "height": 202, "images": "./images/", "audio": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "ymen", "parent": "root", "length": 76.14, "rotation": 180, "x": 87.33, "y": 91.21 },
+	{ "name": "zmen", "parent": "root", "length": 71.28, "x": -86.01, "y": 91.21 }
+],
+"slots": [
+	{ "name": "menneibu", "bone": "root", "attachment": "menneibu" },
+	{ "name": "ymen", "bone": "ymen", "attachment": "ymen" },
+	{ "name": "zmen", "bone": "zmen", "attachment": "zmen" }
+],
+"skins": {
+	"default": {
+		"menneibu": {
+			"menneibu": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 101, -1, -101, -1, -101, 201, 101, 201 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 202,
+				"height": 202
+			}
+		},
+		"ymen": {
+			"ymen": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ -11.99, 91.21, 88.01, 91.21, 88.01, -108.79, -11.99, -108.79 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 100,
+				"height": 200
+			}
+		},
+		"zmen": {
+			"zmen": {
+				"type": "mesh",
+				"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+				"triangles": [ 1, 2, 3, 1, 3, 0 ],
+				"vertices": [ 86.33, -91.21, -13.67, -91.21, -13.67, 108.79, 86.33, 108.79 ],
+				"hull": 4,
+				"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+				"width": 100,
+				"height": 200
+			}
+		}
+	}
+},
+"animations": {
+	"close": {
+		"slots": {
+			"ymen": {
+				"attachment": [
+					{ "time": 0, "name": "ymen" },
+					{ "time": 0.1333, "name": "ymen" },
+					{ "time": 0.7, "name": "ymen" },
+					{ "time": 0.8333, "name": "ymen" }
+				]
+			},
+			"zmen": {
+				"attachment": [
+					{ "time": 0, "name": "zmen" },
+					{ "time": 0.1333, "name": "zmen" },
+					{ "time": 0.7, "name": "zmen" },
+					{ "time": 0.8333, "name": "zmen" }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"menneibu": {
+					"menneibu": [
+						{ "time": 0, "curve": "stepped" },
+						{ "time": 0.1333, "curve": "stepped" },
+						{ "time": 0.7, "curve": "stepped" },
+						{ "time": 0.8333 }
+					]
+				},
+				"ymen": {
+					"ymen": [
+						{
+							"time": 0,
+							"offset": 2,
+							"vertices": [ -99.70496, 1.0E-5, -99.70496 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"offset": 2,
+							"vertices": [ -99.70496, 1.0E-5, -99.70496 ],
+							"curve": [ 0.396, 0.4, 0.664, 0.65 ]
+						},
+						{
+							"time": 0.4667,
+							"offset": 2,
+							"vertices": [ -18.92174, 0, -18.92174 ],
+							"curve": [ 0.46, 0.46, 0.648, 0.66 ]
+						},
+						{ "time": 0.7, "curve": "stepped" },
+						{ "time": 0.8333 }
+					]
+				},
+				"zmen": {
+					"zmen": [
+						{
+							"time": 0,
+							"vertices": [ -99.97186, 0, 0, 0, 0, 0, -99.97186 ],
+							"curve": "stepped"
+						},
+						{
+							"time": 0.1333,
+							"vertices": [ -99.97186, 0, 0, 0, 0, 0, -99.97186 ],
+							"curve": [ 0.396, 0.4, 0.664, 0.65 ]
+						},
+						{
+							"time": 0.4667,
+							"vertices": [ -22.37415, 0, 0, 0, 0, 0, -22.37415 ],
+							"curve": [ 0.46, 0.46, 0.648, 0.66 ]
+						},
+						{ "time": 0.7, "curve": "stepped" },
+						{ "time": 0.8333 }
+					]
+				}
+			}
+		}
+	},
+	"close daiji": {
+		"deform": {
+			"default": {
+				"menneibu": {
+					"menneibu": [
+						{ "time": 0 }
+					]
+				}
+			}
+		}
+	},
+	"open": {
+		"slots": {
+			"ymen": {
+				"color": [
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			},
+			"zmen": {
+				"color": [
+					{ "time": 0.8, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"zmen": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.6667, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.6667, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6667, "x": 1, "y": 1 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"menneibu": {
+					"menneibu": [
+						{ "time": 0 }
+					]
+				},
+				"ymen": {
+					"ymen": [
+						{
+							"time": 0,
+							"curve": [ 0.428, 0.42, 0.685, 0.68 ]
+						},
+						{
+							"time": 0.6667,
+							"offset": 2,
+							"vertices": [ -99.43593, 1.0E-5, -99.43593 ]
+						}
+					]
+				},
+				"zmen": {
+					"zmen": [
+						{
+							"time": 0,
+							"curve": [ 0.428, 0.42, 0.685, 0.68 ]
+						},
+						{
+							"time": 0.6667,
+							"vertices": [ -99.92398, 0, 0, 0, 0, 0, -99.92398 ]
+						}
+					]
+				}
+			}
+		}
+	},
+	"open daiji": {
+		"slots": {
+			"ymen": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			},
+			"zmen": {
+				"attachment": [
+					{ "time": 0, "name": null }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"menneibu": {
+					"menneibu": [
+						{ "time": 0 }
+					]
+				}
+			}
+		}
+	}
+}
+}

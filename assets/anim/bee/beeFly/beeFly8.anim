@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beeFly8",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.816666666666667,
+  "sample": 60,
+  "speed": 0.3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            131,
+            315
+          ],
+          "motionPath": [
+            [
+              -133,
+              124,
+              -82,
+              254,
+              -173,
+              22
+            ]
+          ]
+        },
+        {
+          "frame": 1.5,
+          "value": [
+            -52,
+            -156
+          ],
+          "motionPath": [
+            [
+              255,
+              -4,
+              210,
+              -119,
+              302,
+              113
+            ]
+          ]
+        },
+        {
+          "frame": 2.816666666666667,
+          "value": [
+            131,
+            309
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.9,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.15,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.183333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,69 @@
+
+reqieiu.png
+size: 728,521
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 588, 12
+  size: 18, 96
+  orig: 18, 96
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 687, 261
+  size: 7, 102
+  orig: 7, 102
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 588, 32
+  size: 28, 103
+  orig: 28, 103
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 588, 2
+  size: 8, 97
+  orig: 8, 97
+  offset: 0, 0
+  index: -1
+hou
+  rotate: true
+  xy: 588, 365
+  size: 154, 110
+  orig: 154, 110
+  offset: 0, 0
+  index: -1
+qian
+  rotate: true
+  xy: 588, 205
+  size: 158, 97
+  orig: 158, 97
+  offset: 0, 0
+  index: -1
+qiu
+  rotate: true
+  xy: 2, 8
+  size: 511, 584
+  orig: 511, 584
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 588, 62
+  size: 72, 141
+  orig: 72, 141
+  offset: 0, 0
+  index: -1
+ying
+  rotate: true
+  xy: 662, 63
+  size: 140, 64
+  orig: 144, 66
+  offset: 2, 1
+  index: -1

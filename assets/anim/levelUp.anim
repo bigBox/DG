@@ -1,0 +1,127 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "levelUp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "lblLevel": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -2.116,
+                230,
+                0
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                -106.64933333333332,
+                230,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -198.11599999999999,
+                230,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.25,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "lblLevelOld": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                172.461,
+                110,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                0,
+                110,
+                0
+              ]
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "lblNewLevel": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                172.461,
+                230,
+                0
+              ]
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": [
+                80.4818,
+                230,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                0,
+                230,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

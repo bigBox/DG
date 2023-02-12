@@ -1,0 +1,170 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "makeItemJump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [],
+      "opacity": []
+    },
+    "paths": {
+      "spDropItem1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                113.4,
+                73.4
+              ],
+              "motionPath": [
+                [
+                  71.2,
+                  91.5,
+                  87.5,
+                  98.5,
+                  40.4,
+                  78.3
+                ]
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                9.3,
+                28.8
+              ],
+              "motionPath": []
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.25,
+              "value": false
+            }
+          ]
+        }
+      },
+      "spDropItem2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.25,
+              "value": true
+            },
+            {
+              "frame": 0.5,
+              "value": false
+            },
+            {
+              "frame": 0.75,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.25,
+              "value": [
+                113.4,
+                73.4
+              ],
+              "motionPath": [
+                [
+                  72.1,
+                  94,
+                  92.3,
+                  102.7,
+                  42.2,
+                  81.2
+                ]
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                9.3,
+                28.8
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.75,
+              "value": [
+                9.3,
+                28.8
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "spDropItem3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5,
+              "value": true
+            },
+            {
+              "frame": 0.75,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                113.4,
+                73.4
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                113.4,
+                73.4
+              ],
+              "motionPath": [
+                [
+                  70.5,
+                  92.8,
+                  88.3,
+                  100.5,
+                  39.9,
+                  79.7
+                ]
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": [
+                9.3,
+                28.8
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

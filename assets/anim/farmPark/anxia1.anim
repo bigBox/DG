@@ -1,0 +1,41 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anxia1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.4,
+  "sample": 15,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -160,
+            320,
+            0
+          ]
+        },
+        {
+          "frame": 0.7333333333333333,
+          "value": [
+            -160,
+            146,
+            0
+          ]
+        },
+        {
+          "frame": 1.4,
+          "value": [
+            -160,
+            320,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

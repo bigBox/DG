@@ -1,0 +1,36 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rotate",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.07,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.1,
+          "value": -33.75
+        },
+        {
+          "frame": 0.43333333333333335,
+          "value": -146.25
+        },
+        {
+          "frame": 1.0666666666666667,
+          "value": -360
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {}
+    }
+  },
+  "events": []
+}

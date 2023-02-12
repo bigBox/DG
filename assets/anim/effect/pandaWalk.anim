@@ -1,0 +1,102 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "pandaWalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.066666666666666,
+  "sample": 60,
+  "speed": 0.15,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -685,
+            -82
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            -494,
+            -8
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.0666666666666667,
+          "value": [
+            -359,
+            313
+          ]
+        },
+        {
+          "frame": 1.8,
+          "value": [
+            224,
+            319
+          ]
+        },
+        {
+          "frame": 2.6,
+          "value": [
+            358,
+            -349
+          ]
+        },
+        {
+          "frame": 3.7,
+          "value": [
+            -505,
+            -177
+          ]
+        },
+        {
+          "frame": 4.066666666666666,
+          "value": [
+            -687,
+            -82
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.8,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.566666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.6,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

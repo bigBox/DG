@@ -1,0 +1,69 @@
+
+summon_call_spinie.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beibao
+  rotate: false
+  xy: 184, 87
+  size: 157, 162
+  orig: 157, 162
+  offset: 0, 0
+  index: -1
+huo
+  rotate: true
+  xy: 663, 133
+  size: 116, 133
+  orig: 116, 133
+  offset: 0, 0
+  index: -1
+jin
+  rotate: true
+  xy: 642, 17
+  size: 114, 131
+  orig: 114, 131
+  offset: 0, 0
+  index: -1
+jinbi
+  rotate: true
+  xy: 343, 121
+  size: 128, 163
+  orig: 128, 163
+  offset: 0, 0
+  index: -1
+mu
+  rotate: true
+  xy: 798, 132
+  size: 117, 133
+  orig: 117, 133
+  offset: 0, 0
+  index: -1
+nailao
+  rotate: false
+  xy: 2, 82
+  size: 180, 167
+  orig: 180, 167
+  offset: 0, 0
+  index: -1
+niunaihe
+  rotate: true
+  xy: 508, 145
+  size: 104, 153
+  orig: 104, 153
+  offset: 0, 0
+  index: -1
+shui
+  rotate: true
+  xy: 343, 2
+  size: 117, 132
+  orig: 117, 132
+  offset: 0, 0
+  index: -1
+tu
+  rotate: true
+  xy: 508, 25
+  size: 118, 132
+  orig: 118, 132
+  offset: 0, 0
+  index: -1

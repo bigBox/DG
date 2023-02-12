@@ -1,0 +1,118 @@
+
+nongchang.png
+size: 2020,1541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++2
+  rotate: true
+  xy: 1912, 327
+  size: 291, 106
+  orig: 292, 107
+  offset: 1, 1
+  index: -1
+cabkao
+  rotate: false
+  xy: 2, 904
+  size: 1106, 635
+  orig: 1106, 635
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 33
+  size: 478, 270
+  orig: 482, 270
+  offset: 2, 0
+  index: -1
+liandao
+  rotate: true
+  xy: 1912, 222
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+mai1
+  rotate: true
+  xy: 1746, 1225
+  size: 314, 262
+  orig: 316, 263
+  offset: 0, 0
+  index: -1
+mai2
+  rotate: true
+  xy: 1630, 62
+  size: 369, 280
+  orig: 370, 281
+  offset: 0, 0
+  index: -1
+mai3
+  rotate: false
+  xy: 482, 2
+  size: 361, 301
+  orig: 363, 302
+  offset: 0, 0
+  index: -1
+mai4
+  rotate: false
+  xy: 2, 305
+  size: 912, 597
+  orig: 913, 598
+  offset: 0, 0
+  index: -1
+maidi
+  rotate: true
+  xy: 1110, 433
+  size: 1106, 634
+  orig: 1106, 634
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 916, 513
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 1746, 461
+  size: 137, 157
+  orig: 137, 158
+  offset: 0, 0
+  index: -1
+shouzhi1
+  rotate: false
+  xy: 916, 458
+  size: 81, 53
+  orig: 82, 53
+  offset: 1, 0
+  index: -1
+xian1
+  rotate: true
+  xy: 916, 691
+  size: 211, 187
+  orig: 211, 187
+  offset: 0, 0
+  index: -1
+xian2
+  rotate: true
+  xy: 1746, 955
+  size: 268, 252
+  orig: 269, 252
+  offset: 1, 0
+  index: -1
+xian3
+  rotate: true
+  xy: 1746, 620
+  size: 333, 250
+  orig: 334, 250
+  offset: 1, 0
+  index: -1
+xiandi
+  rotate: false
+  xy: 916, 22
+  size: 712, 409
+  orig: 712, 409
+  offset: 0, 0
+  index: -1

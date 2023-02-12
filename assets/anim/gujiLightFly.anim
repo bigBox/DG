@@ -1,0 +1,42 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "gujiLightFly",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -279,
+            -19
+          ],
+          "motionPath": [
+            [
+              -383,
+              261,
+              -290,
+              166,
+              -463,
+              342
+            ]
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            -627,
+            335
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

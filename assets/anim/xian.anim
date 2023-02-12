@@ -1,0 +1,859 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xian",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "chama/xian1": {
+        "comps": {},
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 10
+            },
+            {
+              "frame": 0.4,
+              "value": 850
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian1/guang": {
+        "comps": {},
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                839.846,
+                -1.096,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "chama/xian2": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": 600
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 255,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255,
+              "curve": "constant"
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian2/guang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": [
+                651.114,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "chama4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5666666666666667,
+              "value": [
+                -619,
+                -216.99999999999997,
+                0
+              ]
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": [
+                -1206.396,
+                -841.89,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": 50
+            }
+          ]
+        }
+      },
+      "chama/xian3": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.55,
+              "value": 445
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian3/guang1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -557.539,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "chama/xian3-1": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 535
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 255
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.9,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian3-1/guang1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -498.399,
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "chama/xian4": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            }
+          ],
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 660
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian4/guang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.8666666666666667,
+              "value": [
+                845.966,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "chama/xian5": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 460
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian5/guang": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": [
+                557.677,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "chama/xian6": {
+        "props": {
+          "width": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 520
+            }
+          ],
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/xian6/guang": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": [
+                667.227,
+                0,
+                0
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "chama/wukuang/chama1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": true
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": false
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5666666666666667,
+              "value": [
+                -553.5,
+                186.49999999999994,
+                0
+              ]
+            },
+            {
+              "frame": 1.0666666666666667,
+              "value": [
+                -1128.399,
+                753.067,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 0
+            },
+            {
+              "frame": 0.9666666666666667,
+              "value": -20
+            }
+          ]
+        }
+      },
+      "chama/wukuang/chama2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/wukuang/chama4": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/wukuang/chama5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.8,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.8,
+              "value": [
+                -112,
+                -132,
+                0
+              ]
+            },
+            {
+              "frame": 1.3,
+              "value": [
+                -112,
+                -936.025,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8,
+              "value": 0
+            },
+            {
+              "frame": 1.1,
+              "value": 30
+            }
+          ]
+        }
+      },
+      "chama6": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                528,
+                -262,
+                0
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                677.836,
+                -1007.245,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": -40
+            }
+          ]
+        }
+      },
+      "chama/wukuang/chama6": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama/wukuang/chama3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": false
+            }
+          ]
+        }
+      },
+      "chama2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.9166666666666666,
+              "value": [
+                -38,
+                225,
+                0
+              ]
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": [
+                -460.364,
+                824.403,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 20
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": 40
+            }
+          ]
+        }
+      },
+      "chama3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": true
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.9166666666666666,
+              "value": [
+                620,
+                232,
+                0
+              ]
+            },
+            {
+              "frame": 1.4166666666666667,
+              "value": [
+                1345.859,
+                232,
+                0
+              ]
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": "constant"
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": -20
+            },
+            {
+              "frame": 1.3166666666666667,
+              "value": -40
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

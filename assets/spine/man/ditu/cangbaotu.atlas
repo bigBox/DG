@@ -1,0 +1,75 @@
+
+cangbaotu.png
+size: 1828,1918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chama1
+  rotate: false
+  xy: 2, 154
+  size: 762, 669
+  orig: 762, 669
+  offset: 0, 0
+  index: -1
+chama2
+  rotate: false
+  xy: 2, 825
+  size: 1010, 581
+  orig: 1010, 581
+  offset: 0, 0
+  index: -1
+chama3
+  rotate: false
+  xy: 1193, 1355
+  size: 633, 561
+  orig: 633, 561
+  offset: 0, 0
+  index: -1
+chama4
+  rotate: false
+  xy: 1014, 749
+  size: 637, 604
+  orig: 637, 604
+  offset: 0, 0
+  index: -1
+chama5
+  rotate: true
+  xy: 766, 2
+  size: 745, 757
+  orig: 745, 757
+  offset: 0, 0
+  index: -1
+chama6
+  rotate: false
+  xy: 377, 1408
+  size: 814, 508
+  orig: 814, 508
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 185, 1727
+  size: 189, 190
+  orig: 241, 241
+  offset: 27, 25
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 1858
+  size: 181, 58
+  orig: 196, 65
+  offset: 8, 3
+  index: -1
+
+cangbaotu2.png
+size: 1881,1046
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 2, 2
+  size: 1877, 1042
+  orig: 1879, 1042
+  offset: 1, 0
+  index: -1

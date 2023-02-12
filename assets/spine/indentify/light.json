@@ -1,0 +1,54 @@
+{
+"skeleton": { "hash": "A1yb1hMRLpn13E3kG9LIRyWRlAE", "spine": "3.6.52", "width": 276, "height": 378, "images": "./images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "图层 1", "bone": "root", "attachment": "图层 1" }
+],
+"skins": {
+	"default": {
+		"图层 1": {
+			"图层 1": { "x": -0.58, "y": -0.14, "width": 276, "height": 378 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"图层 1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.5, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 2.2,
+						"color": "ffffffff",
+						"curve": [ 0.388, 0.43, 0.655, 0.68 ]
+					},
+					{ "time": 2.2333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0.0333, "angle": -18 },
+					{ "time": 1.5, "angle": 0, "curve": "stepped" },
+					{ "time": 2.2, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0.0333, "x": -77.22, "y": 8.27 },
+					{ "time": 1.5, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 2.2, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0.0333, "x": 0.15, "y": 1.075 },
+					{ "time": 1.5, "x": 1, "y": 1.065, "curve": "stepped" },
+					{ "time": 2.2, "x": 1, "y": 1.065 }
+				]
+			}
+		}
+	}
+}
+}

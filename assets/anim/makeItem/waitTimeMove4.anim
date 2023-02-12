@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "waitTimeMove4",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.03,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            175,
+            130
+          ]
+        },
+        {
+          "frame": 0.016666666666666666,
+          "value": [
+            -5,
+            128
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            173,
+            128
+          ]
+        },
+        {
+          "frame": 1.0333333333333334,
+          "value": [
+            -5,
+            128
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

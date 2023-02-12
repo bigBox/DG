@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "summonMailTalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.033333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "lblReward": {
+        "comps": {
+          "cc.Label": {
+            "string": [
+              {
+                "frame": 0,
+                "value": "奖"
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": "奖励"
+              },
+              {
+                "frame": 0.65,
+                "value": "奖励:"
+              }
+            ]
+          }
+        }
+      },
+      "ndRewards": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.9833333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndRewards/ndItem1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.65,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndRewards/ndItem2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndRewards/ndItem3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.5333333333333334,
+              "value": 0
+            },
+            {
+              "frame": 2.033333333333333,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

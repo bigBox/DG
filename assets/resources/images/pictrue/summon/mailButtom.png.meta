@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fa33e64d-e554-416b-b55b-473e12840ffe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 467,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "mailButtom": {
+      "ver": "1.0.4",
+      "uuid": "5852fe0d-4122-4b62-9aac-5c77964b0dcd",
+      "rawTextureUuid": "fa33e64d-e554-416b-b55b-473e12840ffe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 467,
+      "height": 38,
+      "rawWidth": 467,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

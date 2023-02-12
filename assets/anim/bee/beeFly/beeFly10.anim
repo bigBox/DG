@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beeFly10",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            103,
+            -133
+          ],
+          "motionPath": [
+            [
+              228.4,
+              83.8,
+              263.4,
+              5.8,
+              197.4,
+              150.8
+            ]
+          ]
+        },
+        {
+          "frame": 1,
+          "value": [
+            -31,
+            159
+          ],
+          "motionPath": [
+            [
+              -81.7,
+              -31,
+              -113.5,
+              39.7,
+              -47.6,
+              -106.8
+            ]
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            100.9,
+            -134.3
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.4166666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.43333333333333335,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.4666666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.4833333333333334,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

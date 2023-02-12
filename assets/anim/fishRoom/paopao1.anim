@@ -1,0 +1,148 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "paopao1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2.68,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -2,
+            -47
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": [
+            7,
+            63
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.3,
+          "value": [
+            -34,
+            169
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.4333333333333333,
+          "value": [
+            26,
+            279
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 1.85,
+          "value": [
+            53,
+            373
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.65,
+          "value": [
+            30,
+            479
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": [
+            50,
+            709
+          ],
+          "motionPath": []
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.2
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": 0.4
+        },
+        {
+          "frame": 1.3,
+          "value": 0.6
+        },
+        {
+          "frame": 1.4333333333333333,
+          "value": 0.8
+        },
+        {
+          "frame": 1.85,
+          "value": 1
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": 1.6
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.2
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": 0.4
+        },
+        {
+          "frame": 1.3,
+          "value": 0.6
+        },
+        {
+          "frame": 1.4333333333333333,
+          "value": 0.8
+        },
+        {
+          "frame": 1.85,
+          "value": 1
+        },
+        {
+          "frame": 2.6666666666666665,
+          "value": 1.6
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 1.85,
+          "value": 255
+        },
+        {
+          "frame": 2.65,
+          "value": 0
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {}
+    }
+  },
+  "events": [
+    {
+      "frame": 2.683333333333333,
+      "func": "",
+      "params": []
+    }
+  ]
+}

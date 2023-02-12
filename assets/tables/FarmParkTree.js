@@ -1,0 +1,5 @@
+module.exports = new Array(
+	{ID:110020012, name:'竹', costGold:100, needLevel:15, needGreen:5, greenTo:0, harvestGreenTo:6, eatGreenTo:1, harvestNum:1, seedNum:1, cookingTime:180, growStep:1, eatType:0, productId:170060004, productName:'竹', productNum:2, productExp:1, feedId:0, feedNum:0, seedNum:5, sproutNum:5, growNum:5, matureNum:5, growImage:'images/pictrue/farmscene/parkItems/plants/bamboo'},
+	{ID:110020013, name:'松树', costGold:100, needLevel:16, needGreen:5, greenTo:0, harvestGreenTo:6, eatGreenTo:1, harvestNum:1, seedNum:1, cookingTime:180, growStep:1, eatType:0, productId:170060005, productName:'木材', productNum:2, productExp:1, feedId:0, feedNum:0, seedNum:3, sproutNum:3, growNum:3, matureNum:3, growImage:'images/pictrue/farmscene/parkItems/plants/pine'},
+	{ID:110020014, name:'苹果树', costGold:100, needLevel:17, needGreen:6, greenTo:0, harvestGreenTo:6, eatGreenTo:0, harvestNum:2, seedNum:1, cookingTime:180, growStep:2, eatType:0, productId:170060006, productName:'苹果', productNum:2, productExp:1, feedId:0, feedNum:0, seedNum:3, sproutNum:3, growNum:3, matureNum:3, growImage:'images/pictrue/farmscene/parkItems/plants/apple'},
+);

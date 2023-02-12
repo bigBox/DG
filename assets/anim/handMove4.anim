@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "handMove4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.9,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -310,
+            67
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.9,
+          "value": [
+            -13,
+            -29
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

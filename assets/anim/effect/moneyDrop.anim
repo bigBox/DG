@@ -1,0 +1,524 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "moneyDrop",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 3.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {},
+    "paths": {
+      "sMoney1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5,
+                5
+              ],
+              "motionPath": [
+                [
+                  276,
+                  -117,
+                  151,
+                  2,
+                  390,
+                  -226
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                484,
+                -600
+              ],
+              "motionPath": [
+                [
+                  582,
+                  -431,
+                  535,
+                  -431,
+                  644,
+                  -431
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                706,
+                -580
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 3.5,
+              "value": [
+                737,
+                -550
+              ],
+              "motionPath": []
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.25,
+                "y": 0.25
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "sMoney2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5,
+                5
+              ],
+              "motionPath": [
+                [
+                  151,
+                  -96,
+                  92,
+                  20,
+                  208,
+                  -208
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                237,
+                -600
+              ],
+              "motionPath": [
+                [
+                  347,
+                  -426,
+                  287,
+                  -426,
+                  410,
+                  -426
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                484,
+                -580
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 3.5,
+              "value": [
+                502,
+                -545
+              ],
+              "motionPath": []
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.25,
+                "y": 0.25
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "sMoney3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5,
+                5
+              ],
+              "motionPath": [
+                [
+                  372,
+                  -69,
+                  233,
+                  22,
+                  573,
+                  -198
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                707,
+                -600
+              ],
+              "motionPath": [
+                [
+                  786,
+                  -439,
+                  740,
+                  -439,
+                  836,
+                  -439
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                900,
+                -580
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 3.5,
+              "value": [
+                918,
+                -554
+              ],
+              "motionPath": []
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.25,
+                "y": 0.25
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "sMoney4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5,
+                5
+              ],
+              "motionPath": [
+                [
+                  453,
+                  -50,
+                  266,
+                  43,
+                  710,
+                  -178
+                ]
+              ]
+            },
+            {
+              "frame": 1,
+              "value": [
+                917,
+                -600
+              ],
+              "motionPath": [
+                [
+                  982,
+                  -469,
+                  943,
+                  -469,
+                  1018,
+                  -469
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                1114,
+                -580
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 3.5,
+              "value": [
+                1115,
+                -552
+              ],
+              "motionPath": []
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.25,
+                "y": 0.25
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "sMoney5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                5,
+                5
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 1,
+              "value": [
+                53,
+                -600
+              ],
+              "motionPath": [
+                [
+                  120,
+                  -482,
+                  71,
+                  -484,
+                  163,
+                  -481
+                ]
+              ]
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": [
+                53,
+                -602
+              ],
+              "motionPath": [
+                [
+                  134,
+                  -508,
+                  87,
+                  -508,
+                  197,
+                  -508
+                ]
+              ]
+            },
+            {
+              "frame": 2,
+              "value": [
+                283,
+                -576
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 3.5,
+              "value": [
+                281,
+                -553
+              ],
+              "motionPath": []
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.25,
+                "y": 0.25
+              }
+            },
+            {
+              "frame": 1.0166666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -0.5,
+                "y": 0.5
+              }
+            },
+            {
+              "frame": 3.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": -2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 3.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

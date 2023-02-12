@@ -1,0 +1,167 @@
+
+jiachong.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 302, 201
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 282, 165
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+hou-l1(1)
+  rotate: true
+  xy: 242, 155
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+hou-l2
+  rotate: true
+  xy: 372, 229
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+hou-l3
+  rotate: false
+  xy: 284, 217
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+hou-r1
+  rotate: true
+  xy: 479, 233
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+hou-r2
+  rotate: false
+  xy: 271, 165
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+hou-r3
+  rotate: false
+  xy: 316, 223
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+jiachong
+  rotate: false
+  xy: 2, 10
+  size: 206, 111
+  orig: 206, 111
+  offset: 0, 0
+  index: -1
+qian-l1
+  rotate: false
+  xy: 331, 231
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+qian-l2
+  rotate: false
+  xy: 210, 74
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+qian-l3
+  rotate: false
+  xy: 447, 233
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+qian-r1
+  rotate: false
+  xy: 242, 193
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+qian-r2
+  rotate: false
+  xy: 210, 32
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+qian-r3
+  rotate: true
+  xy: 282, 176
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 123
+  size: 238, 131
+  orig: 238, 131
+  offset: 0, 0
+  index: -1
+zhong-l1
+  rotate: false
+  xy: 242, 226
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+zhong-l2
+  rotate: true
+  xy: 284, 235
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+zhong-l3
+  rotate: false
+  xy: 210, 12
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+zhong-r1
+  rotate: false
+  xy: 242, 121
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+zhong-r2
+  rotate: true
+  xy: 411, 235
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+zhong-r3
+  rotate: false
+  xy: 279, 197
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1

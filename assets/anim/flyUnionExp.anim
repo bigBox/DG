@@ -1,0 +1,56 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flyUnionExp",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            264,
+            -97
+          ],
+          "motionPath": [
+            [
+              -44,
+              -124,
+              50,
+              -158,
+              -191,
+              -71
+            ]
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            -241,
+            86
+          ],
+          "motionPath": []
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.31666666666666665,
+          "value": 255
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

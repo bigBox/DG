@@ -1,0 +1,108 @@
+{
+"skeleton": { "hash": "TIauQhBrFkUHQxLy0IvdeKinpws", "spine": "3.7.91", "width": 194.22, "height": 369.51, "images": "./images/", "audio": "D:/3最新的工作/动画/images" },
+"bones": [
+	{ "name": "root", "scaleX": 1.17, "scaleY": 1.13 }
+],
+"slots": [
+	{ "name": "shadow", "bone": "root", "attachment": "shadow" },
+	{ "name": "huaping1", "bone": "root", "attachment": "huaping1" },
+	{ "name": "huaping2", "bone": "root", "attachment": "huaping2" },
+	{ "name": "huaping3", "bone": "root", "attachment": "huaping3" },
+	{ "name": "huaping4", "bone": "root", "attachment": "huaping4" },
+	{ "name": "huaping5", "bone": "root", "attachment": "huaping5" },
+	{ "name": "huaping6", "bone": "root", "attachment": "huaping6" },
+	{ "name": "huaping7", "bone": "root", "attachment": "huaping7" },
+	{ "name": "huaping8", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"huaping1": {
+			"huaping1": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping2": {
+			"huaping2": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping3": {
+			"huaping3": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping4": {
+			"huaping4": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping5": {
+			"huaping5": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping6": {
+			"huaping6": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping7": {
+			"huaping7": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"huaping8": {
+			"huaping8": { "x": 1.93, "y": 27.94, "width": 166, "height": 306 }
+		},
+		"shadow": {
+			"shadow": { "x": 2.43, "y": -119.06, "width": 155, "height": 54 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"huaping1": {
+				"attachment": [
+					{ "time": 0.1667, "name": null },
+					{ "time": 1.3333, "name": "huaping1" }
+				]
+			},
+			"huaping2": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.1667, "name": "huaping2" },
+					{ "time": 0.3333, "name": null }
+				]
+			},
+			"huaping3": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.3333, "name": "huaping3" },
+					{ "time": 0.5, "name": null }
+				]
+			},
+			"huaping4": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.5, "name": "huaping4" },
+					{ "time": 0.6667, "name": null }
+				]
+			},
+			"huaping5": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.6667, "name": "huaping5" },
+					{ "time": 0.8333, "name": null }
+				]
+			},
+			"huaping6": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 0.8333, "name": "huaping6" },
+					{ "time": 1, "name": null }
+				]
+			},
+			"huaping7": {
+				"attachment": [
+					{ "time": 0, "name": null },
+					{ "time": 1, "name": "huaping7" },
+					{ "time": 1.1667, "name": null }
+				]
+			},
+			"huaping8": {
+				"attachment": [
+					{ "time": 1.1667, "name": "huaping8" },
+					{ "time": 1.3333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2fe1f56c-23c8-46e9-8bfd-31848bb49b13",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 301,
+  "height": 291,
+  "platformSettings": {},
+  "subMetas": {
+    "parkanimal": {
+      "ver": "1.0.4",
+      "uuid": "d86f6281-d269-4ec6-a18e-9552e0669040",
+      "rawTextureUuid": "2fe1f56c-23c8-46e9-8bfd-31848bb49b13",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 301,
+      "height": 291,
+      "rawWidth": 301,
+      "rawHeight": 291,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

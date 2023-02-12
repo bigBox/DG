@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "beeFly3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6.5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -201,
+            81
+          ],
+          "motionPath": [
+            [
+              -109,
+              17,
+              -143,
+              18,
+              -61,
+              15
+            ],
+            [
+              104,
+              -23,
+              52,
+              -36,
+              159,
+              -10
+            ]
+          ]
+        },
+        {
+          "frame": 3.9833333333333334,
+          "value": [
+            151,
+            68
+          ],
+          "motionPath": [
+            [
+              -34,
+              244,
+              52,
+              241,
+              -123,
+              248
+            ]
+          ]
+        },
+        {
+          "frame": 6.5,
+          "value": [
+            -200,
+            83
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 3.95,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 3.966666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 6.5,
+      "func": "",
+      "params": []
+    },
+    {
+      "frame": 6.5,
+      "func": "",
+      "params": []
+    }
+  ]
+}

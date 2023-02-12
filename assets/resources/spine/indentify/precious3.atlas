@@ -1,0 +1,62 @@
+
+precious3.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lingzhi1
+  rotate: false
+  xy: 2, 2
+  size: 182, 200
+  orig: 182, 200
+  offset: 0, 0
+  index: -1
+lingzhi2
+  rotate: true
+  xy: 997, 58
+  size: 144, 201
+  orig: 144, 201
+  offset: 0, 0
+  index: -1
+lingzhi3
+  rotate: true
+  xy: 1402, 76
+  size: 126, 203
+  orig: 126, 203
+  offset: 0, 0
+  index: -1
+lingzhi4
+  rotate: true
+  xy: 390, 46
+  size: 156, 204
+  orig: 156, 204
+  offset: 0, 0
+  index: -1
+lingzhi5
+  rotate: true
+  xy: 186, 22
+  size: 180, 202
+  orig: 180, 202
+  offset: 0, 0
+  index: -1
+lingzhi6
+  rotate: true
+  xy: 796, 53
+  size: 149, 199
+  orig: 149, 199
+  offset: 0, 0
+  index: -1
+lingzhi7
+  rotate: true
+  xy: 1200, 72
+  size: 130, 200
+  orig: 130, 200
+  offset: 0, 0
+  index: -1
+lingzhi8
+  rotate: true
+  xy: 596, 43
+  size: 159, 198
+  orig: 159, 198
+  offset: 0, 0
+  index: -1

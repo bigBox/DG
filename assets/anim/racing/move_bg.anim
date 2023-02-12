@@ -1,0 +1,147 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "move_bg",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "diNode": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                -111.15,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -1779,
+                -111.15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tianNode/cloud1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -354,
+                -30,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -854,
+                -30,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tianNode/cloud2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1475,
+                -15,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -1975,
+                -15,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tianNode/cloud5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -756,
+                55,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -1256,
+                55,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tianNode/cloud4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1030,
+                4,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -1530,
+                4,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "tianNode/cloud3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -1172,
+                45,
+                0
+              ]
+            },
+            {
+              "frame": 4,
+              "value": [
+                -1672,
+                45,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

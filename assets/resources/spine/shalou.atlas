@@ -1,0 +1,48 @@
+
+shalou.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shalou1
+  rotate: false
+  xy: 81, 63
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+shalou2
+  rotate: false
+  xy: 2, 2
+  size: 77, 117
+  orig: 77, 117
+  offset: 0, 0
+  index: -1
+shazi1
+  rotate: false
+  xy: 165, 95
+  size: 58, 24
+  orig: 58, 24
+  offset: 0, 0
+  index: -1
+shazi2
+  rotate: false
+  xy: 81, 12
+  size: 7, 12
+  orig: 7, 12
+  offset: 0, 0
+  index: -1
+shazi3
+  rotate: false
+  xy: 141, 54
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+shazi4
+  rotate: false
+  xy: 81, 26
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1

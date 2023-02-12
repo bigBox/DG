@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mailFly",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.9333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -4,
+            242
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": [
+            -283,
+            -29
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 0,
+            "y": 0
+          }
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,13 @@
+
+water.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowen
+  rotate: false
+  xy: 2, 2
+  size: 667, 188
+  orig: 667, 188
+  offset: 0, 0
+  index: -1

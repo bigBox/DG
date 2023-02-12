@@ -1,0 +1,16 @@
+module.exports = new Array(
+	{Id:1001, ItemId:609990002, ItemName:'加速卡', NumPerPackage:100, Price:10, guildScore:0, money:0, payment:'0'},
+	{Id:1002, ItemId:609990003, ItemName:'能量棒', NumPerPackage:100, Price:10, guildScore:0, money:0, payment:'0'},
+	{Id:1003, ItemId:609990001, ItemName:'月卡', NumPerPackage:1, Price:100, guildScore:0, money:0, payment:'0'},
+	{Id:1005, ItemId:609990004, ItemName:'1个令牌', NumPerPackage:1, Price:1, guildScore:0, money:0, payment:'0'},
+	{Id:1006, ItemId:609990004, ItemName:'100个令牌', NumPerPackage:100, Price:100, guildScore:0, money:0, payment:'0'},
+	{Id:2001, ItemId:609990002, ItemName:'加速卡', NumPerPackage:1, Price:0, guildScore:10, money:0, payment:'2'},
+	{Id:2002, ItemId:609990003, ItemName:'能量棒', NumPerPackage:1, Price:0, guildScore:10, money:0, payment:'2'},
+	{Id:2004, ItemId:609990002, ItemName:'加速卡', NumPerPackage:10, Price:0, guildScore:100, money:0, payment:'2'},
+	{Id:2005, ItemId:609990003, ItemName:'能量棒', NumPerPackage:10, Price:0, guildScore:100, money:0, payment:'2'},
+	{Id:3001, ItemId:2, ItemName:'钻石', NumPerPackage:20, Price:0, guildScore:0, money:1, payment:'1'},
+	{Id:3002, ItemId:2, ItemName:'钻石', NumPerPackage:200, Price:0, guildScore:0, money:10, payment:'1'},
+	{Id:3003, ItemId:2, ItemName:'钻石', NumPerPackage:1000, Price:0, guildScore:0, money:50, payment:'1'},
+	{Id:3004, ItemId:2, ItemName:'钻石', NumPerPackage:2000, Price:0, guildScore:0, money:100, payment:'1'},
+	{Id:3005, ItemId:2, ItemName:'钻石', NumPerPackage:0, Price:0, guildScore:0, money:0, payment:'1'},
+);

@@ -1,0 +1,63 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "itemJumpUD",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 0.7,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": [
+            0,
+            25
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": [
+            -0.5,
+            0
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.4166666666666667,
+          "value": [
+            0,
+            10.100000381469727,
+            0
+          ]
+        },
+        {
+          "frame": 0.5166666666666667,
+          "value": [
+            0,
+            0.10000038146972656,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 1.5,
+          "value": 255
+        }
+      ]
+    }
+  },
+  "events": []
+}

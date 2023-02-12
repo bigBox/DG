@@ -1,0 +1,174 @@
+
+npcHurt.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuzi
+  rotate: false
+  xy: 319, 2
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 20
+  size: 162, 106
+  orig: 162, 106
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 477, 51
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 166, 11
+  size: 115, 151
+  orig: 115, 151
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: true
+  xy: 568, 2
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: false
+  xy: 688, 51
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+toufa04
+  rotate: true
+  xy: 855, 52
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1
+toufa05
+  rotate: true
+  xy: 1299, 86
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+toufa06
+  rotate: true
+  xy: 771, 52
+  size: 74, 82
+  orig: 74, 82
+  offset: 0, 0
+  index: -1
+toufa07
+  rotate: true
+  xy: 1068, 72
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+toufa08
+  rotate: false
+  xy: 590, 37
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+toufa09
+  rotate: true
+  xy: 319, 56
+  size: 70, 156
+  orig: 70, 156
+  offset: 0, 0
+  index: -1
+wyj
+  rotate: false
+  xy: 1229, 81
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 4
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: true
+  xy: 965, 81
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 1148, 90
+  size: 36, 79
+  orig: 36, 79
+  offset: 0, 0
+  index: -1
+yshangbi
+  rotate: true
+  xy: 1508, 103
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+yshou
+  rotate: true
+  xy: 1366, 98
+  size: 28, 74
+  orig: 28, 74
+  offset: 0, 0
+  index: -1
+zdatui
+  rotate: true
+  xy: 402, 5
+  size: 49, 73
+  orig: 49, 73
+  offset: 0, 0
+  index: -1
+zhijuan
+  rotate: true
+  xy: 615, 3
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 568, 37
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+zuobi
+  rotate: true
+  xy: 1442, 100
+  size: 26, 64
+  orig: 26, 64
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 855, 83
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 477, 21
+  size: 28, 89
+  orig: 28, 89
+  offset: 0, 0
+  index: -1

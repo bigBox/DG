@@ -1,0 +1,87 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "openScene",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.533333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 0.8833333333333333,
+          "value": 255
+        }
+      ]
+    },
+    "paths": {
+      "weimu1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -817,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.5166666666666666,
+              "value": [
+                -2000,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "weimu2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                817,
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 2.533333333333333,
+              "value": [
+                2000,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2.316666666666667,
+      "func": "ndOpenAction",
+      "params": []
+    }
+  ]
+}

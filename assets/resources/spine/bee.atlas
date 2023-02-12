@@ -1,0 +1,195 @@
+
+bee.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang3
+  rotate: false
+  xy: 103, 20
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+chibang4
+  rotate: false
+  xy: 144, 24
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+chujiao3
+  rotate: false
+  xy: 185, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+chujiao4
+  rotate: false
+  xy: 210, 41
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: false
+  xy: 2, 14
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: false
+  xy: 56, 16
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 103, 5
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+yanjing3
+  rotate: false
+  xy: 144, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+yhtui21
+  rotate: false
+  xy: 238, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yhtui22
+  rotate: false
+  xy: 2, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+yhtui23
+  rotate: false
+  xy: 120, 5
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+yqtui21
+  rotate: false
+  xy: 174, 7
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+yqtui22
+  rotate: false
+  xy: 88, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+yqtui23
+  rotate: false
+  xy: 19, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+yztui21
+  rotate: false
+  xy: 213, 25
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+yztui22
+  rotate: false
+  xy: 238, 38
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+yztui23
+  rotate: false
+  xy: 185, 11
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+zhtui21
+  rotate: true
+  xy: 56, 2
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+zhtui22
+  rotate: false
+  xy: 237, 15
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+zhtui23
+  rotate: false
+  xy: 72, 2
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+zqtui21
+  rotate: true
+  xy: 36, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+zqtui22
+  rotate: false
+  xy: 200, 11
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+zqtui23
+  rotate: true
+  xy: 225, 24
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+zui3
+  rotate: false
+  xy: 185, 25
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+zztui21
+  rotate: true
+  xy: 215, 13
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+zztui22
+  rotate: false
+  xy: 232, 3
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+zztui23
+  rotate: false
+  xy: 237, 26
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1

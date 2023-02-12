@@ -1,0 +1,132 @@
+
+cow.png
+size: 400,717
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 433
+  size: 385, 282
+  orig: 385, 282
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: false
+  xy: 2, 109
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 293, 128
+  size: 90, 72
+  orig: 90, 72
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 172, 51
+  size: 35, 40
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+eye11
+  rotate: true
+  xy: 266, 21
+  size: 53, 57
+  orig: 54, 58
+  offset: 0, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 214, 29
+  size: 33, 40
+  orig: 36, 41
+  offset: 1, 0
+  index: -1
+eye22
+  rotate: true
+  xy: 325, 2
+  size: 52, 57
+  orig: 54, 59
+  offset: 0, 1
+  index: -1
+f1
+  rotate: false
+  xy: 266, 76
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+f2
+  rotate: true
+  xy: 45, 35
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 98, 35
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+f4
+  rotate: true
+  xy: 341, 56
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 175
+  size: 256, 289
+  orig: 258, 290
+  offset: 0, 1
+  index: -1
+l1
+  rotate: false
+  xy: 223, 64
+  size: 41, 109
+  orig: 41, 109
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 98, 131
+  size: 42, 123
+  orig: 42, 123
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 2, 3
+  size: 41, 104
+  orig: 41, 111
+  offset: 0, 7
+  index: -1
+l4
+  rotate: true
+  xy: 98, 88
+  size: 41, 108
+  orig: 41, 108
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 293, 202
+  size: 105, 95
+  orig: 107, 96
+  offset: 1, 1
+  index: -1
+tail
+  rotate: false
+  xy: 293, 299
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1

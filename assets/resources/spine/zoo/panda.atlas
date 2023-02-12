@@ -1,0 +1,97 @@
+
+panda.png
+size: 1197,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biti
+  rotate: true
+  xy: 1012, 5
+  size: 58, 75
+  orig: 58, 75
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 374, 232
+  orig: 374, 232
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 661, 7
+  size: 83, 95
+  orig: 84, 95
+  offset: 1, 0
+  index: -1
+ear2
+  rotate: true
+  xy: 758, 9
+  size: 81, 88
+  orig: 82, 90
+  offset: 0, 2
+  index: -1
+eye1
+  rotate: true
+  xy: 1143, 89
+  size: 145, 52
+  orig: 145, 52
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 848, 7
+  size: 145, 23
+  orig: 145, 23
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: true
+  xy: 853, 122
+  size: 112, 192
+  orig: 112, 192
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 661, 92
+  size: 142, 190
+  orig: 142, 190
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 378, 3
+  size: 281, 231
+  orig: 293, 231
+  offset: 0, 0
+  index: -1
+leg1
+  rotate: false
+  xy: 1047, 65
+  size: 94, 169
+  orig: 94, 169
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: true
+  xy: 853, 32
+  size: 88, 157
+  orig: 88, 157
+  offset: 0, 0
+  index: -1
+mouse1
+  rotate: true
+  xy: 1143, 49
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+mouse2
+  rotate: true
+  xy: 1012, 79
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+smoke.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo1
+  rotate: false
+  xy: 840, 71
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+huo2
+  rotate: false
+  xy: 652, 54
+  size: 91, 69
+  orig: 91, 69
+  offset: 0, 0
+  index: -1
+huo3
+  rotate: false
+  xy: 429, 26
+  size: 113, 97
+  orig: 113, 97
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: false
+  xy: 153, 32
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: false
+  xy: 2, 2
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: false
+  xy: 918, 77
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: false
+  xy: 745, 66
+  size: 93, 57
+  orig: 93, 57
+  offset: 0, 0
+  index: -1
+yan5
+  rotate: false
+  xy: 544, 57
+  size: 106, 66
+  orig: 106, 66
+  offset: 0, 0
+  index: -1
+yan6
+  rotate: false
+  xy: 303, 54
+  size: 124, 69
+  orig: 124, 69
+  offset: 0, 0
+  index: -1
+yan7
+  rotate: false
+  xy: 153, 45
+  size: 148, 78
+  orig: 148, 78
+  offset: 0, 0
+  index: -1
+yan8
+  rotate: false
+  xy: 2, 27
+  size: 149, 96
+  orig: 149, 96
+  offset: 0, 0
+  index: -1

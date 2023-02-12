@@ -1,0 +1,181 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "taskItemTalk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "lblNeed": {
+        "comps": {
+          "cc.Label": {
+            "string": [
+              {
+                "frame": 0,
+                "value": "需"
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": "需求"
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": "需求:"
+              }
+            ]
+          }
+        }
+      },
+      "ndNeeds": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "lblReward": {
+        "comps": {
+          "cc.Label": {
+            "string": [
+              {
+                "frame": 0,
+                "value": " "
+              },
+              {
+                "frame": 1.6666666666666667,
+                "value": "奖"
+              },
+              {
+                "frame": 2,
+                "value": "奖励"
+              },
+              {
+                "frame": 2.316666666666667,
+                "value": "奖励:"
+              }
+            ]
+          }
+        }
+      },
+      "ndRewards": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.65,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndNeeds/ndItem1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndNeeds/ndItem2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndNeeds/ndItem3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 1.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndRewards/ndItem1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.316666666666667,
+              "value": 0
+            },
+            {
+              "frame": 2.6666666666666665,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndRewards/ndItem2": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 2.6666666666666665,
+              "value": 0
+            },
+            {
+              "frame": 3,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndRewards/ndItem3": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 3,
+              "value": 0
+            },
+            {
+              "frame": 3.35,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ndNeeds/lblDec": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 255
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

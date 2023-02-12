@@ -1,0 +1,5 @@
+module.exports = new Array(
+	{ID:260030002, name:'熊猫召唤符', costGold:0, needLevel:7, costEcology:0, addBoom:0, placeLimit:0, eatPlantID:0, eatPlantType:0, eatNum:0, harvestCount:0, cookingTime:0, lifeTime:0, productName:'熊猫', productId:260030001, productNum:1, productExp:0, productRenown:0, uncommon:1, spine:'spine/zoo/panda', skin:'', witheredImage:''},
+	{ID:260030005, name:'蓝孔雀召唤符', costGold:0, needLevel:7, costEcology:0, addBoom:0, placeLimit:0, eatPlantID:0, eatPlantType:0, eatNum:0, harvestCount:0, cookingTime:0, lifeTime:0, productName:'蓝孔雀', productId:260030004, productNum:1, productExp:0, productRenown:0, uncommon:1, spine:'spine/zoo/kongque', skin:'', witheredImage:''},
+	{ID:260030008, name:'猴子召唤符', costGold:0, needLevel:7, costEcology:0, addBoom:0, placeLimit:0, eatPlantID:0, eatPlantType:0, eatNum:0, harvestCount:0, cookingTime:0, lifeTime:0, productName:'猴子', productId:260030007, productNum:1, productExp:0, productRenown:0, uncommon:1, spine:'spine/zoo/houzi', skin:'', witheredImage:''},
+);

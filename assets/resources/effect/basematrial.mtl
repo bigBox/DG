@@ -1,0 +1,10 @@
+{
+  "__type__": "cc.Material",
+  "_name": "basematrial",
+  "_objFlags": 0,
+  "_native": "",
+  "_effectAsset": {
+    "__uuid__": "a73b8350-e053-4682-95ba-6872b5a392ae"
+  },
+  "_techniqueData": {}
+}

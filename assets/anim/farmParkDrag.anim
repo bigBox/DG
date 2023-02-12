@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "farmParkDrag",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4.016666666666667,
+  "sample": 60,
+  "speed": 3,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -43.761,
+            70.731,
+            0
+          ]
+        },
+        {
+          "frame": 4.016666666666667,
+          "value": [
+            443.354,
+            -135.282,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

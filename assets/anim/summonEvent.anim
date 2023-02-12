@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "summonEvent",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 1,
+          "value": 0.75
+        },
+        {
+          "frame": 2,
+          "value": 1
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 1,
+          "value": 0.75
+        },
+        {
+          "frame": 2,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

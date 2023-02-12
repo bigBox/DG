@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d6699d0c-b469-4053-9365-fd0a31072a91",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 472,
+  "height": 385,
+  "platformSettings": {},
+  "subMetas": {
+    "parkrareanimal": {
+      "ver": "1.0.4",
+      "uuid": "4726fc18-411a-44f6-8458-ce13dc689b29",
+      "rawTextureUuid": "d6699d0c-b469-4053-9365-fd0a31072a91",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 472,
+      "height": 385,
+      "rawWidth": 472,
+      "rawHeight": 385,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
